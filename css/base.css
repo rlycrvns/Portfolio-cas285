@@ -1,19 +1,15 @@
 /*=== GLOBAL STYLE ===*/
 body {
+  font-family: "aileronregular", Helvetica, sans-serif;
   font-weight: normal;
   font-size: 20px;
   overflow-x: hidden;
   background-color: #fff;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/*=== NAVBAR STYLE ===*/
+/*=== NAVBAR===*/
 nav {
-  font-family: "aileronregular", Helvetica, sans-serif;
+  font-family: "aileronlight", Helvetica, sans-serif;
   padding: 10px;
 }
 
@@ -39,18 +35,22 @@ nav {
   color: #222222;
 }
 
-/*=== HEADER SECTION ===*/
+/*=== HEADER ===*/
 header {
   font-family: "aileronlight", Helvetica, sans-serif;
   text-align: center;
-  border-bottom: 1px #222222 solid;
+  background-image: url("../img/bg.jpg");
 }
 header h1 {
-  color: #222222;
+  color: #fff;
   padding: 50px;
 }
+header img {
+  width: 100%;
+  height: auto;
+}
 
-/*=== MAIN SECTION ===*/
+/*=== MAIN ===*/
 main {
   text-align: center;
   border-bottom: 1px #222222 solid;
@@ -60,16 +60,23 @@ main h2 {
   padding: 100px;
 }
 
-/*=== ARTICLE SECTION ===*/
+/*=== ARTICLE ===*/
 article {
   text-align: center;
+  font-family: "aileronlight", Helvetica, sans-serif;
 }
 article h3 {
   color: #222222;
   padding: 100px;
 }
+article form p {
+  font-size: 18px;
+}
+article form #submit-button {
+  background-image: url("../img/bg.jpg");
+}
 
-/*=== FOOTER SECTION ==*/
+/*=== FOOTER ==*/
 footer {
   background-color: #222222;
   text-align: center;
@@ -83,13 +90,13 @@ footer a {
 }
 
 /*===============MEDIA QUERIES ====================*/
-/*=== TABLET STYLE ===*/
+/*=== TABLET ===*/
 @media (min-width: 600px) {
   .navbar li {
     font-size: 20px;
   }
 }
-/*=== DESKTOP STYLE ===*/
+/*=== DESKTOP ===*/
 @media (min-width: 1200px) {
   .navbar li {
     font-size: 22px;

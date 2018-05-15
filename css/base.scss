@@ -3,20 +3,17 @@
 /*=== GLOBAL STYLE ===*/
 
 body {
+  font-family: $font-reg;
 	font-weight: normal;
 	font-size: 20px;
 	overflow-x: hidden;
 	background-color: #fff;
 }
-img {
-	max-width: 100%;
-	height: auto;
-}
 
-/*=== NAVBAR STYLE ===*/
+/*=== NAVBAR===*/
 
 nav {
-	font-family: $font-reg;
+  font-family: $font-lite;
 	padding: 10px;
 }
 .navbar li {
@@ -39,19 +36,23 @@ nav {
 	color: #222222;
 }
 
-/*=== HEADER SECTION ===*/
+/*=== HEADER ===*/
 header {
 	font-family: $font-lite;
 	text-align: center;
-	border-bottom: 1px #222222 solid;
+  background-image: url("../img/bg.jpg");
 
   h1 {
-  	color: #222222;
+  	color: #fff;
   	padding: 50px;
+  }
+  img {
+    width: 100%;
+    height: auto;
   }
 }
 
-/*=== MAIN SECTION ===*/
+/*=== MAIN ===*/
 
 main {
 	text-align: center;
@@ -63,16 +64,23 @@ main {
   }
 }
 
-/*=== ARTICLE SECTION ===*/
+/*=== ARTICLE ===*/
 article {
 	text-align: center;
+  font-family: $font-lite;
 
   h3 {
   	color: #222222;
   	padding: 100px;
   }
+  form p {
+    font-size: 18px;
+  }
+  form #submit-button {
+    background-image: url("../img/bg.jpg");
+  }
 }
-/*=== FOOTER SECTION ==*/
+/*=== FOOTER ==*/
 
 footer {
 	background-color: #222222;
@@ -89,14 +97,14 @@ footer {
 }
 /*===============MEDIA QUERIES ====================*/
 
-/*=== TABLET STYLE ===*/
+/*=== TABLET ===*/
 
 @media (min-width: 600px)  {
 	.navbar li {
 		font-size: 20px;
 	}
 }
-/*=== DESKTOP STYLE ===*/
+/*=== DESKTOP ===*/
 
 @media (min-width: 1200px)  {
 	.navbar li {
