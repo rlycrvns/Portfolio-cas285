@@ -1,3 +1,5 @@
+@import 'fonts';
+
 /*=== GLOBAL STYLE ===*/
 
 body {
@@ -14,7 +16,7 @@ img {
 /*=== NAVBAR STYLE ===*/
 
 nav {
-	font-family: 'aileronlight', Arial, sans-serif;
+	font-family: $font-reg;
 	padding: 10px;
 }
 .navbar li {
@@ -39,50 +41,52 @@ nav {
 
 /*=== HEADER SECTION ===*/
 header {
-	font-family: 'aileronregular', Arial, sans-serif;
+	font-family: $font-lite;
 	text-align: center;
 	border-bottom: 1px #222222 solid;
 
- 	h1 {
-	color: #222222;
-	padding: 50px;
-	}
+  h1 {
+  	color: #222222;
+  	padding: 50px;
+  }
 }
+
 /*=== MAIN SECTION ===*/
 
 main {
 	text-align: center;
 	border-bottom: 1px #222222 solid;
-}
-main h2 {
-	color: #222222;
-	padding: 100px;
-}
 
+  h2 {
+  	color: #222222;
+  	padding: 100px;
+  }
+}
 
 /*=== ARTICLE SECTION ===*/
 article {
 	text-align: center;
-}
-article h3 {
-	color: #222222;
-	padding: 100px;
-}
 
+  h3 {
+  	color: #222222;
+  	padding: 100px;
+  }
+}
 /*=== FOOTER SECTION ==*/
 
 footer {
 	background-color: #222222;
 	text-align: center;
-}
-footer p {
-	color: #fff;
-	font-size: 16px;
-}
-footer a {
-	color: #fff;
-}
 
+  p {
+  	color: #fff;
+  	font-size: 16px;
+  }
+
+  a {
+	 color: #fff;
+  }
+}
 /*===============MEDIA QUERIES ====================*/
 
 /*=== TABLET STYLE ===*/

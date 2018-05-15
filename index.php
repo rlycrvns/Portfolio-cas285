@@ -12,7 +12,7 @@
 	</main>
 
 	<article class="container-fluid">
-		<h3>Article Content Here </h2>
+		<h3><?php include 'php/mailer.php'; ?></h2>
 	</article>
 
 

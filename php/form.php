@@ -1,37 +1,23 @@
       <form method="post" action="  " id="inquiryForm">
-        <h2>Contact/Registration Form</h2>
-        <p>To contact me or to join the walk, fill in the form and hit Submit.</p>
+        <h2>Get in touch</h2>
 
         <p>
-         <label for="name">Your name</label>
+         <label for="name">Name</label>
           <input type="text" name="name" id="name" maxlength="30" minlength="2" type="text" required>
-          <p class="error">
-            <span>Your name must contain 5 to 30 characters.</span>
-          </p>
         </p>
 
         <p>
-          <label for="email">Your email</label>
+          <label for="email">Email</label>
           <input type="email" name="email" id="email" required>
-          <p class="error">
-            <span>Please type in a correct email.</span>
-          </p>
         </p>
 
         <p>
-          <label for="subject">Your subject</label>
+          <label for="subject">Subject</label>
           <input type="text" name="subject" id="subject" maxlength="20" minlength="2" required>
-          <p class="error">
-            <span>Your subject must contain 2 to 20 words.</span>
-          </p>
-        </p>
 
         <p>
           <label for="message">Your message</label>
           <textarea name="message" id="message" rows="5" required></textarea>
-          <p class="error">
-            <span>Your message must contain 10 to 100 words.</span>
-          </p>
         </p>
 
         <input class="submit" type="submit" value="Submit">
