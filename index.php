@@ -3,17 +3,20 @@
 
 <body>
 
-	<header class="container-fluid">
-		<h1>Riley Cravens</h1>
+	<header id="top" class="container-fluid">
+			<h1>Coding, Designing, and Troubleshooting</h1>
+			<br>
+			<p>Hi! My name is Riley Cravens and I'm a web developer located in Portland, OR.</p>
+			<a class="btn btn-primary" href="#contact" role="button">Say Hello</a>
 	</header>
 
-	<main class="container-fluid">
+	<main id="work" class="container-fluid">
 		<h2>Main Content Here</h2>
 	</main>
 
-	<article class="container-fluid well">
+	<article id="contact" class="container-fluid">
 		<br>
-		<h2>Get in touch</h2>
+		<h2>What can I do for you?</h2>
 		<?php include 'php/mailer.php';?>
 	</article>
 

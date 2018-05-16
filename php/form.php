@@ -6,9 +6,8 @@
 
         <div class="form-group">
           <label for="email">Email:</label>
-          <br>
-          <input class="form-control" type="email" name="email" id="email" required>
           <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+          <input class="form-control" type="email" name="email" id="email" required>
         </div>
 
         <div class="form-group">
@@ -18,7 +17,7 @@
 
         <div class="form-group">
           <label for="message"></label>
-          <textarea class="form-control" name="message" id="message" rows="5" required>Message...</textarea>
+          <textarea class="form-control" name="message" id="message" rows="5" placeholder="Message..." required></textarea>
         </div>
 
         <input id="submit-button" class="submit btn btn-dark" type="submit" value="Submit">
