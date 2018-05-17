@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-light">
+<nav id="top" class="navbar navbar-expand-sm navbar-light bg-light">
   <div>
     <a class="btn sociallinks" href="https://www.linkedin.com/in/riley-cravens/" target="_blank"><i class="icons fab fa-linkedin fa-3x"></i></a>
     <a class="btn sociallinks" href="https://github.com/rlycrvns" target="_blank"><i class="icons fab fa-github fa-3x"></i></a>
@@ -11,16 +11,16 @@
   <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="index.php">About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Work</a>
+        <a class="nav-link" href="#work">Work</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Resume</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link" href="#contact">Contact</a>
       </li>
     </ul>
   </div>

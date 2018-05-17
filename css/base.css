@@ -31,7 +31,7 @@ nav {
 /*=== HEADER ===*/
 header {
   text-align: center;
-  padding: 50px 50px 1000px 50px;
+  padding: 100px 50px 1000px 50px;
   color: #fff;
   background-image: url("../img/hero.png");
   height: auto;
@@ -53,8 +53,7 @@ header {
 
 /*=== MAIN ===*/
 main {
-  text-align: center;
-  border-bottom: 1px #222222 solid; }
+  text-align: center; }
   main h2 {
     color: #222222;
     padding: 100px; }

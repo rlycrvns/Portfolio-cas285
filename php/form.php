@@ -6,7 +6,7 @@
 
         <div class="form-group">
           <label for="email">Email:</label>
-          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+          <small id="emailHelp" class="form-text text-muted">I will never share your email with anyone else.</small>
           <input class="form-control" type="email" name="email" id="email" required>
         </div>
 
