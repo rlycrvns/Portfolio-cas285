@@ -4,10 +4,8 @@
 <body>
 
 	<header class="container-fluid">
-			<h1>Coding, Designing, and Troubleshooting</h1>
-			<br>
-			<p>Hi! My name is Riley Cravens and I'm a web developer located in Portland, OR.</p>
-			<a class="btn btn-primary" href="#contact" role="button">Say Hello</a>
+					<h1>Riley Cravens</h1>
+					<hr class="intro-divider">
 	</header>
 
 	<main id="work" class="container-fluid">
