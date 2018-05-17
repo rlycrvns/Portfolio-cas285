@@ -65,7 +65,7 @@ if (!$mail->send()) {
     echo "Mailer Error: " . $mail->ErrorInfo;
 } else {
 
-/*try
+try
 {
   $pdo = new PDO('mysql:host=localhost;dbname=rilezrdc_rileycravens', 'rilezrdc_info', '$629i@UITjjW$uAf');
   $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -100,7 +100,7 @@ if ((isset($_POST['name'])))
       include 'error.php';
       exit();
     }
-}*/
+}
 
     include 'success.php';
 }
