@@ -1,7 +1,7 @@
       <form method="post" action="  " id="inquiryForm">
         <div class="form-group">
          <label for="name">Name:</label>
-          <input class="form-control" type="text" name="name" id="name" maxlength="30" minlength="2" type="text" required>
+          <input class="form-control" type="text" name="name" id="name" type="text" required>
         </div>
 
         <div class="form-group">
@@ -12,7 +12,7 @@
 
         <div class="form-group">
           <label for="subject">Subject:</label>
-          <input class="form-control" type="text" name="subject" id="subject" maxlength="20" minlength="2" required>
+          <input class="form-control" type="text" name="subject" id="subject" required>
         </div>
 
         <div class="form-group">

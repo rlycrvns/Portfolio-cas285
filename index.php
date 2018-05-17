@@ -3,7 +3,7 @@
 
 <body>
 
-	<header id="top" class="container-fluid">
+	<header class="container-fluid">
 			<h1>Coding, Designing, and Troubleshooting</h1>
 			<br>
 			<p>Hi! My name is Riley Cravens and I'm a web developer located in Portland, OR.</p>
