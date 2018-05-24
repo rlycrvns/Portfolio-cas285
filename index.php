@@ -9,16 +9,16 @@
 	</header>
 
 	<main id="work" class="container-fluid">
-		<h2>Work</h2>
+		<h2>My Recent Work</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
-				<img src="https://fakeimg.pl/800x500/222222/fff/" class="img-fluid">
+				<img src="https://fakeimg.pl/400x400/222222/fff/" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-2">
-				<img src="https://fakeimg.pl/800x500/222222/fff/" class="img-fluid">
+				<img src="https://fakeimg.pl/400x400/222222/fff/" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-3">
-				<img src="https://fakeimg.pl/800x500/222222/fff/" class="img-fluid">
+				<img src="https://fakeimg.pl/400x400/222222/fff/" class="img-fluid">
 			</li>
 		</ul>
 
@@ -73,7 +73,7 @@
 	<?php include 'includes/footer.inc.php'; ?>
 	<?php include 'includes/scripts.inc.php'; ?>
 	<script>
-	$(document).ready(function () {	
+	$(document).ready(function () {
 			// REMOVE AND ADD CLICK EVENT
 			$('.doAddItem').on('click', function() {
 				$(".gridder").data('gridderExpander').gridderAddItem('TEST');

@@ -52,7 +52,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   h1 {
-    font-size: 40px;
+    font-size: 50px;
     font-family: $font-reg;
     color: #fff;
     text-shadow: 2px 2px #222222;
@@ -75,8 +75,9 @@ header {
 main {
   text-align: center;
   h2 {
-    color: #fff;
-    padding: 15px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: $font-reg;
     }
     .img-fluid {
       box-shadow: 2px 5px 4px #888888;
@@ -197,9 +198,11 @@ footer {
   .navbar li {
     font-size: 20px;
   }
+  main {
   .gridder-list{
       @include rowMachine(2,1%);
   }
+}
 }
 
 /*=== DESKTOP ===*/
@@ -216,7 +219,9 @@ footer {
       margin: 10px 300px 10px 300px;
     }
   }
+  main {
   .gridder-list{
       @include rowMachine(3,1%);
   }
+}
 }

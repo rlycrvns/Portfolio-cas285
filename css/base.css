@@ -39,7 +39,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover; }
   header h1 {
-    font-size: 40px;
+    font-size: 50px;
     font-family: "aileronregular", Helvetica, sans-serif;
     color: #fff;
     text-shadow: 2px 2px #222222; }
@@ -58,8 +58,9 @@ main {
   text-align: center;
   /* */ }
   main h2 {
-    color: #fff;
-    padding: 15px; }
+    padding: 30px;
+    font-size: 50px;
+    font-family: "aileronregular", Helvetica, sans-serif; }
   main .img-fluid {
     box-shadow: 2px 5px 4px #888888;
     border-radius: 25px; }
@@ -141,12 +142,12 @@ footer {
   .navbar li {
     font-size: 20px; }
 
-  .gridder-list {
+  main .gridder-list {
     width: 49.5%; }
-    .gridder-list:nth-child(n) {
+    main .gridder-list:nth-child(n) {
       margin-bottom: 1%;
       margin-right: 1%; }
-    .gridder-list:nth-of-type(2n) {
+    main .gridder-list:nth-of-type(2n) {
       margin-right: 0;
       margin-bottom: 0; } }
 /*=== DESKTOP ===*/
@@ -159,12 +160,12 @@ footer {
   header p {
     margin: 10px 300px 10px 300px; }
 
-  .gridder-list {
+  main .gridder-list {
     width: 32.6666666667%; }
-    .gridder-list:nth-child(n) {
+    main .gridder-list:nth-child(n) {
       margin-bottom: 1%;
       margin-right: 1%; }
-    .gridder-list:nth-of-type(3n) {
+    main .gridder-list:nth-of-type(3n) {
       margin-right: 0;
       margin-bottom: 0; } }
 
