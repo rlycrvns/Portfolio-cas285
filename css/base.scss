@@ -74,10 +74,13 @@ header {
 
 main {
   text-align: center;
-  background-color: #362c2b;
   h2 {
     color: #fff;
     padding: 15px;
+    }
+    .img-fluid {
+      box-shadow: 2px 5px 4px #888888;
+      border-radius: 25px;
   }
   // GRIDDER CSS
   .gridder{
@@ -195,7 +198,7 @@ footer {
     font-size: 20px;
   }
   .gridder-list{
-      @include rowMachine(3,1%);
+      @include rowMachine(2,1%);
   }
 }
 

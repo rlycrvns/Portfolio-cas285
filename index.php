@@ -12,21 +12,20 @@
 		<h2>Work</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
-				<img src="https://fakeimg.pl/350x200/AABBE0/000/" class="img-fluid">
+				<img src="https://fakeimg.pl/800x500/222222/fff/" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-2">
-				<img src="https://fakeimg.pl/350x200/AABBE0/000/" class="img-fluid">
+				<img src="https://fakeimg.pl/800x500/222222/fff/" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-3">
-				<img src="https://fakeimg.pl/350x200/AABBE0/000/" class="img-fluid">
+				<img src="https://fakeimg.pl/800x500/222222/fff/" class="img-fluid">
 			</li>
 		</ul>
 
-		<div class="container-fluid">
 			<div id="gridder-content-1" class="gridder-content">
 				<div class="row">
 					<div class="col-md-6">
-						<img src="http://fakeimg.pl/600/300/?text=1" class="img-fluid" />
+						<img src="https://fakeimg.pl/1000x700/222222/fff/" class="img-fluid" />
 					</div>
 					<div class="col-sm-6">
 						<h2>Item 1</h2>
@@ -39,7 +38,7 @@
 			<div id="gridder-content-2" class="gridder-content">
 				<div class="row">
 					<div class="col-sm-6">
-						<img src="http://fakeimg.pl/600/600/?text=2" class="img-fluid" />
+						<img src="https://fakeimg.pl/1000x700/222222/fff/" class="img-fluid" />
 					</div>
 					<div class="col-sm-6">
 						<h2>Item 2</h2>
@@ -52,7 +51,7 @@
 			<div id="gridder-content-3" class="gridder-content">
 				<div class="row">
 					<div class="col-sm-6">
-						<img src="http://fakeimg.pl/600/600/?text=3" class="img-fluid" />
+						<img src="https://fakeimg.pl/1000x700/222222/fff/" class="img-fluid" />
 					</div>
 					<div class="col-sm-6">
 						<h2>Item 3</h2>
@@ -62,8 +61,6 @@
 					</div>
 				</div>
 			</div>
-		</div>
-	</div>
 	</main>
 
 	<article id="contact" class="container-fluid">
@@ -76,9 +73,7 @@
 	<?php include 'includes/footer.inc.php'; ?>
 	<?php include 'includes/scripts.inc.php'; ?>
 	<script>
-		$("#inquiryForm").validate();
-
-		jQuery(document).ready(function($) {
+	$(document).ready(function () {	
 			// REMOVE AND ADD CLICK EVENT
 			$('.doAddItem').on('click', function() {
 				$(".gridder").data('gridderExpander').gridderAddItem('TEST');
