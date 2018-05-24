@@ -33,7 +33,7 @@ nav {
 header {
   text-align: center;
   padding: 150px 50px 1000px 50px;
-  background-image: url("../img/hero.png");
+  background-image: url("../images/hero.png");
   height: auto;
   background-position: center;
   background-repeat: no-repeat;
@@ -55,10 +55,57 @@ header {
 
 /*=== MAIN ===*/
 main {
-  text-align: center; }
+  text-align: center;
+  background-color: #362c2b;
+  /* */ }
   main h2 {
+    color: #fff;
+    padding: 15px; }
+  main .gridder {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none; }
+  main .gridder-list {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px; }
+  main .gridder-show {
+    display: block;
+    float: left;
+    width: 100%;
+    position: relative;
+    background: #EEE url("../images/loading-spin.svg") no-repeat center; }
+    main .gridder-show.loading {
+      background: #EEE url("../images/loading-spin.svg") no-repeat center; }
+  main .gridder-content {
+    display: none; }
+  main .gridder-list {
+    width: 100%; }
+    main .gridder-list:nth-child(n) {
+      margin-bottom: 1%;
+      margin-right: 1%; }
+    main .gridder-list:nth-of-type(1n) {
+      margin-right: 0;
+      margin-bottom: 0; }
+  main .gridder-show {
+    padding: 20px;
+    background: #EEE;
+    margin-bottom: 1%; }
+  main .gridder-navigation {
+    text-align: right; }
+    main .gridder-navigation .gridder-nav.disabled {
+      opacity: .5; }
+  main .gridder-close {
     color: #222222;
-    padding: 100px; }
+    text-align: center; }
+  main .gridder-list {
+    cursor: pointer; }
+    main .gridder-list:hover {
+      opacity: 0.8; }
+  main .hasSelectedItem .gridder-list {
+    opacity: .5; }
+    main .hasSelectedItem .gridder-list.selectedItem {
+      opacity: 1; }
 
 /*=== ARTICLE ===*/
 article {
@@ -71,6 +118,9 @@ article {
     font-size: 18px; }
   article form #submit-button {
     background-image: url("../img/bg.jpg"); }
+  article form #submit-button:hover {
+    background-color: #c3dbd8;
+    color: #222222; }
 
 /*=== FOOTER ==*/
 footer {
@@ -86,7 +136,16 @@ footer {
 /*=== TABLET ===*/
 @media (min-width: 600px) {
   .navbar li {
-    font-size: 20px; } }
+    font-size: 20px; }
+
+  .gridder-list {
+    width: 32.6666666667%; }
+    .gridder-list:nth-child(n) {
+      margin-bottom: 1%;
+      margin-right: 1%; }
+    .gridder-list:nth-of-type(3n) {
+      margin-right: 0;
+      margin-bottom: 0; } }
 /*=== DESKTOP ===*/
 @media (min-width: 1200px) {
   .navbar li {
@@ -95,6 +154,15 @@ footer {
   header h1 {
     font-size: 80px; }
   header p {
-    margin: 10px 300px 10px 300px; } }
+    margin: 10px 300px 10px 300px; }
+
+  .gridder-list {
+    width: 32.6666666667%; }
+    .gridder-list:nth-child(n) {
+      margin-bottom: 1%;
+      margin-right: 1%; }
+    .gridder-list:nth-of-type(3n) {
+      margin-right: 0;
+      margin-bottom: 0; } }
 
 /*# sourceMappingURL=base.css.map */

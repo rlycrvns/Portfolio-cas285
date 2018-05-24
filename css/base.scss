@@ -1,3 +1,4 @@
+@import 'mixins';
 @import 'fonts';
 /*=== GLOBAL STYLE ===*/
 
@@ -45,7 +46,7 @@ nav {
 header {
   text-align: center;
   padding: 150px 50px 1000px 50px;
-  background-image: url("../img/hero.png");
+  background-image: url("../images/hero.png");
   height: auto;
   background-position: center;
   background-repeat: no-repeat;
@@ -73,11 +74,81 @@ header {
 
 main {
   text-align: center;
+  background-color: #362c2b;
   h2 {
+    color: #fff;
+    padding: 15px;
+  }
+  // GRIDDER CSS
+  .gridder{
+      margin: 0px;
+      padding: 0px;
+      list-style-type: none;
+  }
+
+  .gridder-list {
+      display: inline-block;
+      vertical-align: top;
+      padding: 10px;
+  }
+  .gridder-show {
+      display: block;
+      float: left;
+      width: 100%;
+      position: relative;
+      background: #EEE url('../images/loading-spin.svg') no-repeat center;
+
+      &.loading{
+          background: #EEE url('../images/loading-spin.svg') no-repeat center;
+      }
+  }
+  .gridder-content{
+      display: none;
+  }
+
+  .gridder-list{
+      @include rowMachine(1,1%);
+  }
+
+  /* */
+  .gridder-show{
+      padding: 20px;
+      background: #EEE;
+      margin-bottom: 1%;
+  }
+
+  .gridder-navigation{
+    text-align: right;
+      .gridder-nav{
+          &.disabled{
+              opacity: .5;
+          }
+      }
+  }
+  .gridder-close {
     color: #222222;
-    padding: 100px;
+    text-align: center;
+    }
+
+
+  .gridder-list{
+      cursor: pointer;
+      &:hover{
+          opacity: .8
+      }
+  }
+
+  .hasSelectedItem{
+      .gridder-list{
+          opacity: .5;
+          &.selectedItem{
+              opacity: 1;
+          }
+      }
   }
 }
+
+
 
 /*=== ARTICLE ===*/
 
@@ -93,6 +164,10 @@ article {
   }
   form #submit-button {
     background-image: url("../img/bg.jpg");
+  }
+  form #submit-button:hover {
+    background-color: #c3dbd8;
+    color: #222222;
   }
 }
 
@@ -118,6 +193,9 @@ footer {
   .navbar li {
     font-size: 20px;
   }
+  .gridder-list{
+      @include rowMachine(3,1%);
+  }
 }
 
 /*=== DESKTOP ===*/
@@ -133,5 +211,8 @@ footer {
     p {
       margin: 10px 300px 10px 300px;
     }
+  }
+  .gridder-list{
+      @include rowMachine(3,1%);
   }
 }
