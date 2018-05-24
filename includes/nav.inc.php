@@ -17,10 +17,10 @@
         <a class="nav-link" href="#work">Work</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Resume</a>
+        <a class="nav-link" href="#contact">Contact</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#contact">Contact</a>
+        <a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal">Resume</a>
       </li>
     </ul>
   </div>
