@@ -76,6 +76,8 @@
 	<?php include 'includes/footer.inc.php'; ?>
 	<?php include 'includes/scripts.inc.php'; ?>
 	<script>
+		$("#inquiryForm").validate();
+
 		jQuery(document).ready(function($) {
 			// REMOVE AND ADD CLICK EVENT
 			$('.doAddItem').on('click', function() {

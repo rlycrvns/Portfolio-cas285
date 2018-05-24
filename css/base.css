@@ -117,7 +117,8 @@ article {
   article form p {
     font-size: 18px; }
   article form #submit-button {
-    background-image: url("../img/bg.jpg"); }
+    color: #c3dbd8;
+    background-color: #222222; }
   article form #submit-button:hover {
     background-color: #c3dbd8;
     color: #222222; }
