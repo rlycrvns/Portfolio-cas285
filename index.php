@@ -18,14 +18,27 @@
 					</div>
 					<div class="modal-body">
 						<div class="container-fluid">
-						<img src="http://via.placeholder.com/500x700/222222/fff/?text=Resume">
+							<img src="http://via.placeholder.com/500x700/222222/fff/?text=Resume">
 						</div>
 					</div>
-					<!--/Modal -->
+				</div>
+			</div>
+		</div>
+		<!--/Modal -->
+		<div class="container-fluid">
+			<div class="row">
+					<h2 class="col-6">
+						Hi. I'm Riley Cravens, a web developer in Portland, OR. Please take a look at my recent work!
+					</h2>
+					<p class="col-6">
+						I'm interested in translating beautiful designs into usable code.
+					</p>
+			</div>
+		</div>
 	</header>
 
 	<main id="work" class="container-fluid">
-		<h2>My Recent Work</h2>
+		<h2 id="mainTitle">My Recent Work</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
 				<img src="http://via.placeholder.com/400x400/222222/fff?text=Asset+1" class="img-fluid">
