@@ -44,7 +44,7 @@ nav {
 /*=== HEADER ===*/
 
 header {
-  padding: 150px 50px 800px 50px;
+  padding: 100px 50px 800px 50px;
   background-image: url("../images/hero.png");
   height: auto;
   background-position: center;
@@ -57,10 +57,17 @@ header {
     color: #fff;
     text-shadow: 2px 2px #222222;
   }
-  h2, p {
+  h2 {
     font-family: $font-lite;
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
+    color: #222222;
+  }
+  p {
+    font-family: $font-lite;
+    padding: 10px;
+    font-size: 25px;
+    color: #222222;
   }
   img {
     width: 100%;
@@ -79,11 +86,7 @@ main {
     font-family: $font-reg;
     }
     #mainTitle {
-      color: #fff;
-      background-color: #3c363d;
-      border-radius: 25px;
-      text-shadow: 2px 2px #222222;
-      box-shadow: 2px 5px 4px #888888;
+
     }
     .img-fluid {
       box-shadow: 2px 5px 4px #888888;
@@ -191,7 +194,7 @@ footer {
     color: #fff;
     font-size: 16px;
   }
-  a {
+  i {
     color: #fff;
   }
 }
@@ -224,12 +227,12 @@ footer {
     h2 {
       padding: 60px;
       text-align: justify;
-      font-size: 30px;
+      font-size: 35px;
     }
     p {
       padding: 60px;
       text-align: justify;
-      font-size: 20px;
+      font-size: 25px;
     }
   }
   main {

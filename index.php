@@ -27,12 +27,16 @@
 		<!--/Modal -->
 		<div class="container-fluid">
 			<div class="row">
-					<h2 class="col-6">
-						Hi. I'm Riley Cravens, a web developer in Portland, OR. Please take a look at my recent work!
+					<div class="col-md-6">
+						<h2>
+						Hi. I'm a web developer in Portland, OR. Please take a look at my recent work!
 					</h2>
-					<p class="col-6">
-						I'm interested in translating beautiful designs into usable code.
+				</div>
+					<div class="col-md-6">
+						<p>
+						I'm interested in translating beautiful designs into usable code and working on both sides of the stack to get the job done.
 					</p>
+				</div>
 			</div>
 		</div>
 	</header>
