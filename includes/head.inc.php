@@ -20,7 +20,7 @@
 	</script>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	<link href="css/bootstrap.css" rel="stylesheet">
-	<link rel="stylesheet" href="css/webfonts/aileron.css" type="text/css" charset="utf-8" />
+	<link rel="stylesheet" href="css/webfonts/aileron.css" type="text/css" charset="utf-8">
 	<link href="css/hamburgers.css" rel="stylesheet">
 	<link href="css/jquery.gridder.min.css" rel="stylesheet">
 	<link href="css/base.css" rel="stylesheet">

@@ -20,7 +20,7 @@
         <a class="nav-link" href="#contact">Contact</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal">Resume</a>
+        <a id="modalTrig" class="nav-link" href="#" data-toggle="modal" data-target="#resumeModal">Resume</a>
       </li>
     </ul>
   </div>

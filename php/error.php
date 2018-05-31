@@ -7,7 +7,6 @@
   <body>
     <p>
       There was an error: <?php echo $error; ?>
-        
     </p>
   </body>
 </html>
