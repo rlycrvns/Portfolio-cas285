@@ -57,9 +57,6 @@
 							Sass
 						</li>
 						<li>
-							Less
-						</li>
-						<li>
 							jQuery
 						</li>
 						<li>
