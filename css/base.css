@@ -215,7 +215,11 @@ footer {
     main .gridder-list:nth-of-type(3n) {
       margin-right: 0;
       margin-bottom: 0; }
-  main ul {
-    font-size: 20px; } }
+    main .gridder-list ul {
+      font-size: 20px; }
+
+  article {
+    padding-right: 100px;
+    padding-left: 100px; } }
 
 /*# sourceMappingURL=base.css.map */
