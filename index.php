@@ -41,10 +41,10 @@
 		</div>
 	</header>
 
-	<main id="work" class="container-fluid">
+	<main class="container-fluid">
 			<div id="skillbox" class="row">
 				<div id="frontend" class="col-md skills">
-					<h3>Front-End</h3>
+					<h3 id="work">Front-End</h3>
 					<hr class="intro-divider">
 					<ul>
 						<li>
