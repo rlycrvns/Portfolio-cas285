@@ -42,16 +42,78 @@
 	</header>
 
 	<main id="work" class="container-fluid">
-		<h2>Skills and Tools</h2>
-			<div class="row">
-				<div class="col-md-4">
+			<div id="skillbox" class="row">
+				<div id="frontend" class="col-md skills">
 					<h3>Front-End</h3>
+					<hr class="intro-divider">
+					<ul>
+						<li>
+							Bootstrap
+						</li>
+						<li>
+							Bulma
+						</li>
+						<li>
+							Sass
+						</li>
+						<li>
+							Less
+						</li>
+						<li>
+							jQuery
+						</li>
+						<li>
+							WordPress
+						</li>
+					</ul>
 				</div>
-				<div class="col-md-4">
+				<div id="backend" class="col-md skills">
 					<h3>Back-End</h3>
+					<hr class="intro-divider">
+					<ul>
+						<li>
+							PHP
+						</li>
+						<li>
+							MySql
+						</li>
+						<li>
+							JavaScript
+						</li>
+						<li>
+							JSON
+						</li>
+					</ul>
 				</div>
-				<div class="col-md-4">
+				<div id="tools" class="col-md skills">
 					<h3>Tools</h3>
+					<hr class="intro-divider">
+					<ul>
+						<li>
+						MacOS
+						</li>
+						<li>
+							Atom
+						</li>
+						<li>
+							Koala
+						</li>
+						<li>
+							Github
+						</li>
+						<li>
+							Jira
+						</li>
+						<li>
+							XAMPP
+						</li>
+						<li>
+							PHPStorm
+						</li>
+						<li>
+							Photoshop
+						</li>
+					</ul>
 				</div>
 			</div>
 		<h2>My Recent Work</h2>

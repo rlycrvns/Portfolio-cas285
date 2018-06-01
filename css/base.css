@@ -1,6 +1,5 @@
 /*=== GLOBAL STYLE ===*/
 body {
-  font-family: "aileronregular", Helvetica, sans-serif;
   font-weight: normal;
   font-size: 20px;
   overflow-x: hidden;
@@ -42,18 +41,18 @@ header {
   header h1 {
     text-align: center;
     font-size: 50px;
-    font-family: "aileronregular", Helvetica, sans-serif;
+    font-family: "aileronlight", Helvetica, sans-serif;
     color: #fff;
     text-shadow: 2px 2px #222222; }
   header h2 {
     font-family: "aileronlight", Helvetica, sans-serif;
     padding: 10px;
-    font-size: 30px;
+    font-size: 32px;
     color: #222222; }
   header p {
     font-family: "aileronlight", Helvetica, sans-serif;
     padding: 10px;
-    font-size: 25px;
+    font-size: 20px;
     color: #222222; }
   header img {
     width: 100%;
@@ -65,15 +64,32 @@ main {
   padding: 20px;
   text-align: center;
   background-color: #f1f7f6;
-  border-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
   /* */ }
   main h2 {
     padding: 40px;
     font-size: 50px;
     font-family: "aileronregular", Helvetica, sans-serif;
     color: #545158; }
+  main h3 {
+    font-family: "aileronlight", Helvetica, sans-serif;
+    color: #5e9390;
+    text-align: center; }
+  main ul {
+    list-style-type: none;
+    font-size: 18px;
+    padding-left: 0px; }
+  main #skillbox {
+    margin: -150px 20px 20px 20px; }
+  main .skills {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 25px;
+    background-color: #fff;
+    box-shadow: 1px 3px 2px #888888; }
   main .img-fluid {
-    box-shadow: 2px 5px 4px #888888;
+    box-shadow: 1px 3px 2px #888888;
     border-radius: 25px; }
   main .gridder {
     margin: 0px;
@@ -155,6 +171,17 @@ footer {
   .navbar li {
     font-size: 20px; }
 
+  header h1 {
+    font-size: 80px; }
+  header h2 {
+    padding: 60px;
+    text-align: justify;
+    font-size: 40px; }
+  header p {
+    padding: 60px;
+    text-align: justify;
+    font-size: 20px; }
+
   main .gridder-list {
     width: 49.5%; }
     main .gridder-list:nth-child(n) {
@@ -173,11 +200,11 @@ footer {
   header h2 {
     padding: 60px;
     text-align: justify;
-    font-size: 35px; }
+    font-size: 40px; }
   header p {
     padding: 60px;
     text-align: justify;
-    font-size: 25px; }
+    font-size: 20px; }
 
   main .gridder-list {
     width: 32.6666666667%; }
