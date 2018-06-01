@@ -11,6 +11,8 @@ nav {
   font-family: "aileronlight", Helvetica, sans-serif;
   padding: 10px;
   background-color: #f1f7f6; }
+  nav a {
+    color: #545158 !important; }
 
 .navbar li {
   text-align: center;
@@ -31,7 +33,7 @@ nav {
 
 /*=== HEADER ===*/
 header {
-  padding: 100px 50px 800px 50px;
+  padding: 200px 50px 1000px 50px;
   background-image: url("../images/hero.png");
   height: auto;
   background-position: center;
@@ -59,13 +61,17 @@ header {
 
 /*=== MAIN ===*/
 main {
-  margin-top: 15px;
+  margin-top: -25px;
+  padding: 20px;
   text-align: center;
+  background-color: #f1f7f6;
+  border-radius: 25px;
   /* */ }
   main h2 {
-    padding: 30px;
+    padding: 40px;
     font-size: 50px;
-    font-family: "aileronregular", Helvetica, sans-serif; }
+    font-family: "aileronregular", Helvetica, sans-serif;
+    color: #545158; }
   main .img-fluid {
     box-shadow: 2px 5px 4px #888888;
     border-radius: 25px; }
@@ -134,7 +140,9 @@ article {
 /*=== FOOTER ==*/
 footer {
   background-color: #222222;
-  text-align: center; }
+  text-align: center;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px; }
   footer p {
     color: #fff;
     font-size: 16px; }

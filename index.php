@@ -29,12 +29,12 @@
 			<div class="row">
 					<div class="col-md-6">
 						<h2>
-						Hi. I'm a web developer in Portland, OR. Please take a look at my recent work!
+						Hi. I'm a web developer based in Portland, OR. Please take a look at my recent work!
 					</h2>
 				</div>
 					<div class="col-md-6">
 						<p>
-						I'm interested in translating beautiful designs into usable code and working on both sides of the stack to get the job done.
+						I'm interested in translating beautiful designs into elegantly functional code and working on both sides of the stack to get the job done. I love to collaborate and have participated in and managed Agile workgroups using Jira and Github. When not working with Front-End Frameworks such as Bootstrap and Bulma, I like to use PHP to integrate Relational Databases into my project.
 					</p>
 				</div>
 			</div>
@@ -42,7 +42,19 @@
 	</header>
 
 	<main id="work" class="container-fluid">
-		<h2 id="mainTitle">My Recent Work</h2>
+		<h2>Skills and Tools</h2>
+			<div class="row">
+				<div class="col-md-4">
+					<h3>Front-End</h3>
+				</div>
+				<div class="col-md-4">
+					<h3>Back-End</h3>
+				</div>
+				<div class="col-md-4">
+					<h3>Tools</h3>
+				</div>
+			</div>
+		<h2>My Recent Work</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
 				<img src="http://via.placeholder.com/400x400/222222/fff?text=Asset+1" class="img-fluid">
