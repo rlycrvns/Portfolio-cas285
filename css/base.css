@@ -73,10 +73,11 @@ main {
     font-family: "aileronregular", Helvetica, sans-serif;
     color: #545158; }
   main h3 {
-    font-family: "aileronlight", Helvetica, sans-serif;
+    font-family: "aileronregular", Helvetica, sans-serif;
     color: #5e9390;
     text-align: center; }
   main ul {
+    font-family: "aileronlight", Helvetica, sans-serif;
     list-style-type: none;
     font-size: 18px;
     padding-left: 0px; }
@@ -84,7 +85,7 @@ main {
     margin: -150px 20px 20px 20px; }
   main .skills {
     padding: 10px;
-    margin: 5px;
+    margin: 10px;
     border-radius: 25px;
     background-color: #fff;
     box-shadow: 1px 3px 2px #888888; }
@@ -213,6 +214,8 @@ footer {
       margin-right: 1%; }
     main .gridder-list:nth-of-type(3n) {
       margin-right: 0;
-      margin-bottom: 0; } }
+      margin-bottom: 0; }
+  main ul {
+    font-size: 20px; } }
 
 /*# sourceMappingURL=base.css.map */

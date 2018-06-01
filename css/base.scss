@@ -93,11 +93,12 @@ main {
     color: #545158;
     }
   h3 {
-    font-family: $font-lite;
+    font-family: $font-reg;
      color: #5e9390;
      text-align: center;
   }
   ul {
+    font-family: $font-lite;
     list-style-type: none;
     font-size: 18px;
     padding-left: 0px;
@@ -107,7 +108,7 @@ main {
 }
   .skills {
     padding: 10px;
-    margin: 5px;
+    margin: 10px;
     border-radius: 25px;
     background-color: #fff;
     box-shadow: 1px 3px 2px #888888;
@@ -279,6 +280,9 @@ footer {
   main {
   .gridder-list{
       @include rowMachine(3,1%);
+  }
+  ul{
+    font-size: 20px;
   }
 }
 }

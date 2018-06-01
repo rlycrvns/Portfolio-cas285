@@ -86,7 +86,7 @@
 					</ul>
 				</div>
 				<div id="tools" class="col-md skills">
-					<h3>Tools</h3>
+					<h3>Dev Tools</h3>
 					<hr class="intro-divider">
 					<ul>
 						<li>
