@@ -77,12 +77,6 @@
 						<li>
 							MySql
 						</li>
-						<li>
-							JavaScript
-						</li>
-						<li>
-							JSON
-						</li>
 					</ul>
 				</div>
 				<div id="tools" class="col-md skills">
