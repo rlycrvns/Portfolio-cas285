@@ -55,9 +55,6 @@
 						CSS3
 					</li>
 					<li>
-						Sass
-					</li>
-					<li>
 						JavaScript
 					</li>
 					<li>
@@ -77,6 +74,9 @@
 					</li>
 					<li>
 						Bulma
+					</li>
+					<li>
+						Sass
 					</li>
 					<li>
 						jQuery
@@ -100,7 +100,7 @@
 						Atom
 					</li>
 					<li>
-						Koala
+						CodeKit
 					</li>
 					<li>
 						Github
