@@ -45,7 +45,7 @@
 	<main class="container-fluid">
 		<div id="skillbox" class="row">
 			<div id="frontend" class="col-md skills">
-				<h3 id="work">Languages</h3>
+				<h3 id="work">Languages I Speak</h3>
 				<hr class="intro-divider">
 				<ul>
 					<li>
@@ -69,7 +69,7 @@
 				</ul>
 			</div>
 			<div id="backend" class="col-md skills">
-				<h3>Tools</h3>
+				<h3>Tools I Like</h3>
 				<hr class="intro-divider">
 				<ul>
 					<li>
@@ -90,7 +90,7 @@
 				</ul>
 			</div>
 			<div id="tools" class="col-md skills">
-				<h3>Platforms</h3>
+				<h3>Platforms I Use</h3>
 				<hr class="intro-divider">
 				<ul>
 					<li>
@@ -120,7 +120,7 @@
 				</ul>
 			</div>
 		</div>
-		<h2>My Recent Work</h2>
+		<h2>My Recent Work(In Progress)</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
 				<img src="http://via.placeholder.com/400x400/222222/fff?text=Asset+1" class="img-fluid">
