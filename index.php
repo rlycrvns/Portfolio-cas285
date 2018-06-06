@@ -123,7 +123,7 @@
 				</ul>
 			</div>
 		</div>
-		<h2>My Recent Work</h2>
+		<h2 id="work">My Recent Work</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
 				<img src="images/nattystaggs-thumb.jpg" class="img-fluid">
