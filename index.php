@@ -35,7 +35,7 @@
 				<div class="col-md-6">
 					<p>
 						I'm interested in translating beautiful designs into elegantly functional code and working on both sides of the stack to get the job done. I love to collaborate and have participated in and managed Agile workgroups using Jira and Github. When not working
-						with Front-End Frameworks such as Bootstrap and Bulma, I like to use PHP to integrate Relational Databases into my project.
+						with Front-End Frameworks such as Bootstrap and Bulma, I like to use PHP to integrate databases via MySql into my projects.
 					</p>
 				</div>
 			</div>
@@ -123,7 +123,7 @@
 				</ul>
 			</div>
 		</div>
-		<h2>My Recent Work(In Progress)</h2>
+		<h2>My Recent Work</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
 				<img src="images/nattystaggs-thumb.jpg" class="img-fluid">
@@ -132,7 +132,7 @@
 				<img src="images/albina-thumb.jpg" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-3">
-				<img src="http://via.placeholder.com/408x277/222222/fff?text=Asset+3" class="img-fluid">
+				<img src="images/ace-thumb.jpg" class="img-fluid">
 			</li>
 		</ul>
 
@@ -144,7 +144,7 @@
 				<div class="col-sm-6">
 					<h2>Natty Staggs</h2>
 					<p>
-						I am currently working with local Portland artist and musician, Natty Staggs, to build her a portfolio website. The current version can viewed <a href="https://rileycravens.com/nattystaggs" target="_blank">here.</a>
+						I am currently working with local Portland artist and musician, Natty Staggs, to build her a portfolio website. The site is built using Bootstrap 4.1, Sass, and jQuery. The current version can viewed <a href="https://rileycravens.com/nattystaggs" target="_blank">here.</a>
 					</p>
 				</div>
 			</div>
@@ -167,13 +167,13 @@
 		<div id="gridder-content-3" class="gridder-content">
 			<div class="row">
 				<div class="col-sm-6">
-					<img src="http://via.placeholder.com/1000x700/222222/fff?text=Asset+3" class="img-fluid">
+					<img src="images/ace.jpg" class="img-fluid">
 				</div>
 				<div class="col-sm-6">
-					<h2>Asset 3</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex augue, hendrerit sed gravida ut, mattis vel tortor. Duis hendrerit sagittis bibendum. Fusce massa risus, hendrerit et est vitae, convallis accumsan ipsum. Integer vitae erat mattis,
-						ornare tortor nec, luctus turpis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse finibus fermentum consectetur. Nulla vestibulum, diam ut finibus dictum, justo felis blandit mi, sed rhoncus tortor
-						augue vitae orci. Fusce semper eu ante ut faucibus.</p>
+					<h2>Ace in the Hole</h2>
+					<p>
+						In the Fall on 2017 I took the course Integrated Website Design(CAS222) at Portland Community College. The course project was to build a site for a fictional sporting event know as Ace in the Hole Multisport Event. The site can be viewed <a href="https://rileycravens.com/cas222" target="_blank">here.</a>
+					</p>
 				</div>
 			</div>
 		</div>

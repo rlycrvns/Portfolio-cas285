@@ -627,6 +627,28 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/images\/ace-thumb.jpg": {
+		"ft": 16384,
+		"iS": 236870,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/ace-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/ace.jpg": {
+		"ft": 16384,
+		"iS": 506278,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/ace.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/images\/albina-thumb.jpg": {
 		"ft": 16384,
 		"iS": 302740,
