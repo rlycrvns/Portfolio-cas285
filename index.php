@@ -44,8 +44,8 @@
 
 	<main class="container-fluid">
 		<div id="skillbox" class="row">
-			<div id="frontend" class="col-md skills">
-				<h3 id="work">Languages I Speak</h3>
+			<div id="languages" class="col-md skills">
+				<h3>Languages I Speak</h3>
 				<hr class="intro-divider">
 				<ul>
 					<li>
@@ -63,9 +63,12 @@
 					<li>
 						SQL
 					</li>
+					<li>
+						C++ Literate
+					</li>
 				</ul>
 			</div>
-			<div id="backend" class="col-md skills">
+			<div id="tools" class="col-md skills">
 				<h3>Tools I Like</h3>
 				<hr class="intro-divider">
 				<ul>
@@ -89,7 +92,7 @@
 					</li>
 				</ul>
 			</div>
-			<div id="tools" class="col-md skills">
+			<div id="platforms" class="col-md skills">
 				<h3>Platforms I Use</h3>
 				<hr class="intro-divider">
 				<ul>
@@ -141,7 +144,7 @@
 				<div class="col-sm-6">
 					<h2>Natty Staggs</h2>
 					<p>
-						I am currently working with local Portland artist and musician, Natty Staggs, to build her a portfolio website.
+						I am currently working with local Portland artist and musician, Natty Staggs, to build her a portfolio website. The current version can viewed <a href="https://rileycravens.com/nattystaggs" target="_blank">here.</a>
 					</p>
 				</div>
 			</div>

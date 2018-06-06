@@ -1,5 +1,5 @@
-@import 'mixins';
-@import 'fonts';
+@import 'mixins.scss';
+@import 'fonts.scss';
 /*=== GLOBAL STYLE ===*/
 
 body {
@@ -210,8 +210,6 @@ article {
 footer {
   background-color: #222222;
   text-align: center;
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
   p {
     color: #fff;
     font-size: 16px;

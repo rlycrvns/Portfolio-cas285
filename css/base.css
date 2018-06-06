@@ -132,7 +132,7 @@ main {
   main .gridder-list {
     cursor: pointer; }
     main .gridder-list:hover {
-      opacity: 0.8; }
+      opacity: .8; }
   main .hasSelectedItem .gridder-list {
     opacity: .5; }
     main .hasSelectedItem .gridder-list.selectedItem {
@@ -162,9 +162,7 @@ article {
 /*=== FOOTER ==*/
 footer {
   background-color: #222222;
-  text-align: center;
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px; }
+  text-align: center; }
   footer p {
     color: #fff;
     font-size: 16px; }
@@ -176,7 +174,6 @@ footer {
 @media (min-width: 600px) {
   .navbar li {
     font-size: 20px; }
-
   header h1 {
     font-size: 80px; }
   header h2 {
@@ -187,7 +184,6 @@ footer {
     padding: 60px;
     text-align: justify;
     font-size: 20px; }
-
   main .gridder-list {
     width: 49.5%; }
     main .gridder-list:nth-child(n) {
@@ -198,17 +194,15 @@ footer {
       margin-bottom: 0; }
   main h2 {
     font-size: 30px; }
-
   article {
     max-width: 60%; }
-
   h2 {
     font-size: 30px; } }
+
 /*=== DESKTOP ===*/
 @media (min-width: 1200px) {
   .navbar li {
     font-size: 22px; }
-
   header h1 {
     font-size: 80px; }
   header h2 {
@@ -219,7 +213,6 @@ footer {
     padding: 60px;
     text-align: justify;
     font-size: 20px; }
-
   main .gridder-list {
     width: 32.6666666667%; }
     main .gridder-list:nth-child(n) {
@@ -232,10 +225,7 @@ footer {
       font-size: 20px; }
   main h2 {
     font-size: 35px; }
-
   article {
     max-width: 60%; }
     article h2 {
       font-size: 35px; } }
-
-/*# sourceMappingURL=base.css.map */
