@@ -88,7 +88,7 @@ main {
   border-bottom-right-radius: 25px;
   h2 {
     padding: 40px;
-    font-size: 50px;
+    font-size: 25px;
     font-family: $font-reg;
     color: #545158;
   }
@@ -182,6 +182,12 @@ main {
 article {
   text-align: center;
   font-family: $font-lite;
+  h2 {
+    padding: 40px;
+    font-size: 25px;
+    font-family: $font-reg;
+    color: #545158;
+  }
   h3 {
     color: #222222;
     padding: 100px;
@@ -242,6 +248,15 @@ footer {
     .gridder-list {
       @include rowMachine(2, 1%);
     }
+    h2 {
+      font-size: 30px;
+    }
+  }
+  article {
+  max-width: 60%;
+  }
+  h2 {
+    font-size: 30px;
   }
 }
 
@@ -273,9 +288,14 @@ footer {
         font-size: 20px;
       }
     }
+    h2 {
+      font-size: 35px;
+    }
   }
   article {
-    padding-right: 100px;
-    padding-left: 100px;
+  max-width: 60%;
+  h2 {
+    font-size: 35px;
+  }
   }
 }

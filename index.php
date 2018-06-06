@@ -123,39 +123,41 @@
 		<h2>My Recent Work(In Progress)</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
-				<img src="http://via.placeholder.com/400x400/222222/fff?text=Asset+1" class="img-fluid">
+				<img src="images/nattystaggs-thumb.jpg" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-2">
-				<img src="http://via.placeholder.com/400x400/222222/fff?text=Asset+2" class="img-fluid">
+				<img src="images/albina-thumb.jpg" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-3">
-				<img src="http://via.placeholder.com/400x400/222222/fff?text=Asset+3" class="img-fluid">
+				<img src="http://via.placeholder.com/408x277/222222/fff?text=Asset+3" class="img-fluid">
 			</li>
 		</ul>
 
 		<div id="gridder-content-1" class="gridder-content">
 			<div class="row">
 				<div class="col-md-6">
-					<img src="http://via.placeholder.com/1000x700/222222/fff?text=Asset+1" class="img-fluid">
+					<img src="images/nattystaggs.jpg" class="img-fluid">
 				</div>
 				<div class="col-sm-6">
-					<h2>Asset 1</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex augue, hendrerit sed gravida ut, mattis vel tortor. Duis hendrerit sagittis bibendum. Fusce massa risus, hendrerit et est vitae, convallis accumsan ipsum. Integer vitae erat mattis,
-						ornare tortor nec, luctus turpis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse finibus fermentum consectetur. Nulla vestibulum, diam ut finibus dictum, justo felis blandit mi, sed rhoncus tortor
-						augue vitae orci. Fusce semper eu ante ut faucibus.</p>
+					<h2>Natty Staggs</h2>
+					<p>
+						I am currently working with local Portland artist and musician, Natty Staggs, to build her a portfolio website.
+					</p>
 				</div>
 			</div>
 		</div>
 		<div id="gridder-content-2" class="gridder-content">
 			<div class="row">
 				<div class="col-sm-6">
-					<img src="http://via.placeholder.com/1000x700/222222/fff?text=Asset+2" class="img-fluid">
+					<img src="images/albina.jpg" class="img-fluid">
 				</div>
 				<div class="col-sm-6">
-					<h2>Asset 2</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex augue, hendrerit sed gravida ut, mattis vel tortor. Duis hendrerit sagittis bibendum. Fusce massa risus, hendrerit et est vitae, convallis accumsan ipsum. Integer vitae erat mattis,
-						ornare tortor nec, luctus turpis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse finibus fermentum consectetur. Nulla vestibulum, diam ut finibus dictum, justo felis blandit mi, sed rhoncus tortor
-						augue vitae orci. Fusce semper eu ante ut faucibus.</p>
+					<h2>Walk Albina's Black History</h2>
+					<p>
+						In the Spring of 2018 I collaborated with a team of fellow Capstone students to build a website for History 251, African American History since 1877, at Portland Community College. The students of this class put on an annual Tour of Historical Locations
+						related to the Black History of the Albina Neighborhood in Portland, Oregon. The website serves as an informational page about the walk and includes essays from students about each location. The role that I performed in the group was to handle all
+						JavaScript implementation as well as content editor. The website can viewed <a href="https://rileycravens.com/cas285" target="_blank">here,</a> temporarily until it goes live.
+					</p>
 				</div>
 			</div>
 		</div>

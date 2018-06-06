@@ -69,7 +69,7 @@ main {
   /* */ }
   main h2 {
     padding: 40px;
-    font-size: 50px;
+    font-size: 25px;
     font-family: "aileronregular", Helvetica, sans-serif;
     color: #545158; }
   main h3 {
@@ -142,6 +142,11 @@ main {
 article {
   text-align: center;
   font-family: "aileronlight", Helvetica, sans-serif; }
+  article h2 {
+    padding: 40px;
+    font-size: 25px;
+    font-family: "aileronregular", Helvetica, sans-serif;
+    color: #545158; }
   article h3 {
     color: #222222;
     padding: 100px; }
@@ -190,7 +195,15 @@ footer {
       margin-right: 1%; }
     main .gridder-list:nth-of-type(2n) {
       margin-right: 0;
-      margin-bottom: 0; } }
+      margin-bottom: 0; }
+  main h2 {
+    font-size: 30px; }
+
+  article {
+    max-width: 60%; }
+
+  h2 {
+    font-size: 30px; } }
 /*=== DESKTOP ===*/
 @media (min-width: 1200px) {
   .navbar li {
@@ -217,9 +230,12 @@ footer {
       margin-bottom: 0; }
     main .gridder-list ul {
       font-size: 20px; }
+  main h2 {
+    font-size: 35px; }
 
   article {
-    padding-right: 100px;
-    padding-left: 100px; } }
+    max-width: 60%; }
+    article h2 {
+      font-size: 35px; } }
 
 /*# sourceMappingURL=base.css.map */
