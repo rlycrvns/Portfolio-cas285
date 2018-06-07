@@ -5,4 +5,4 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
 <script src="js/hamburger-min.js"></script>
 <script src="js/jquery.gridder-min.js"></script>
-<script src="js/scripts.js"></script>
+<script src="js/scripts-min.js"></script>

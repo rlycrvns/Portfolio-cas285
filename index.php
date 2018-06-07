@@ -3,6 +3,7 @@
 
 <body>
 
+	<button onclick="topFunction()" id="topBtn" title="Go to top"<i class="fas fa-angle-up"></i></button>
 	<header class="container-fluid">
 		<h1>Riley Cravens</h1>
 		<hr class="intro-divider">
@@ -189,7 +190,6 @@
 		<h2>What can I do for you?</h2>
 		<?php include 'php/mailer.php';?>
 	</article>
-
 
 	<?php include 'includes/footer.inc.php'; ?>
 	<?php include 'includes/scripts.inc.php'; ?>
