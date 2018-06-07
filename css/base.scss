@@ -121,6 +121,9 @@ main {
     margin: 0px;
     padding: 0px;
     list-style-type: none;
+    p {
+      text-align: justify;
+    }
   }
   .gridder-list {
     display: inline-block;

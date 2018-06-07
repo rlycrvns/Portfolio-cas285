@@ -109,6 +109,9 @@
 						Github
 					</li>
 					<li>
+						Slack
+					</li>
+					<li>
 						Jira
 					</li>
 					<li>
@@ -132,7 +135,7 @@
 				<img src="images/albina-thumb.jpg" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-3">
-				<img src="images/ace-thumb.jpg" class="img-fluid">
+				<img src="images/moviedb-thumb.jpg" class="img-fluid">
 			</li>
 		</ul>
 
@@ -157,9 +160,9 @@
 				<div class="col-sm-6">
 					<h2>Walk Albina's Black History</h2>
 					<p>
-						In the Spring of 2018 I collaborated with a team of fellow Capstone students to build a website for History 251, African American History since 1877, at Portland Community College. The students of this class put on an annual Tour of Historical Locations
+						In the Spring of 2018, I collaborated with a team of fellow Capstone students to build a website for History 251, African American History since 1877, at Portland Community College. The students of this class put on an annual Tour of Historical Locations
 						related to the Black History of the Albina Neighborhood in Portland, Oregon. The website serves as an informational page about the walk and includes essays from students about each location. The role that I performed in the group was to handle all
-						JavaScript implementation as well as content editor. The website can viewed <a href="https://rileycravens.com/cas285" target="_blank">here,</a> temporarily until it goes live.
+						JavaScript implementation as well as content editor. The website can be viewed <a href="https://rileycravens.com/cas285" target="_blank">here,</a> temporarily until it goes live.
 					</p>
 				</div>
 			</div>
@@ -167,12 +170,14 @@
 		<div id="gridder-content-3" class="gridder-content">
 			<div class="row">
 				<div class="col-sm-6">
-					<img src="images/ace.jpg" class="img-fluid">
+					<img src="images/moviedb.jpg" class="img-fluid">
 				</div>
 				<div class="col-sm-6">
-					<h2>Ace in the Hole</h2>
+					<h2>Movie Database API</h2>
 					<p>
-						In the Fall on 2017 I took the course Integrated Website Design(CAS222) at Portland Community College. The course project was to build a site for a fictional sporting event know as Ace in the Hole Multisport Event. The site can be viewed <a href="https://rileycravens.com/cas222" target="_blank">here.</a>
+						In the Spring of 2018, I served as an Agile Group Project Manager for a web API project. The site allows a user to search for a movie title and makes recommendations based on that search. Here a search for Alien returns information about the movie as well as five movies the user might also like.
+						<br>
+						I managed the team tasks via a Jira Kanban board and we used Slack to communicate. Github was used for version control for our codebase. The project is currently ongoing but its current iteration can be viewed <a href="https://rileycravens.com/moviedb" target="_blank">here.</a>
 					</p>
 				</div>
 			</div>

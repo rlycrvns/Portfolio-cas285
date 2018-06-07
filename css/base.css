@@ -96,6 +96,8 @@ main {
     margin: 0px;
     padding: 0px;
     list-style-type: none; }
+    main .gridder p {
+      text-align: justify; }
   main .gridder-list {
     display: inline-block;
     vertical-align: top;
