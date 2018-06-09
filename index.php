@@ -19,7 +19,7 @@
 					</div>
 					<div class="modal-body">
 						<div class="container-fluid">
-							<img src="http://via.placeholder.com/500x700/222222/fff/?text=Resume">
+							<img src="images/RileyCravens.jpg">
 						</div>
 					</div>
 				</div>
@@ -147,9 +147,39 @@
 				</div>
 				<div class="col-sm-6">
 					<h2>Natty Staggs</h2>
+					<div class="row detail-header">
+						<div class="col">
+							<h4>
+								Year:
+							</h4>
+							 <h5>
+								2018
+							</h5>
+						</div>
+						<div class="col">
+							<h4>
+								Role:
+							</h4>
+								<h5>
+									 Designer and Developer
+								</h5>
+						</div>
+						<div class="col">
+							<h4>
+								Client:
+							</h4>
+							<h5>
+								Natty Staggs
+							</h5>
+						</div>
+					</div>
 					<p>
-						I am currently working with local Portland artist and musician, Natty Staggs, to build her a portfolio website. The site is built using Bootstrap 4.1, Sass, and jQuery. The current version can viewed <a href="https://rileycravens.com/nattystaggs" target="_blank">here.</a>
+						I am currently interning for Natty Staggs, a Portland artist, and musician, to furnish a complete overhaul of her portfolio website. I worked with Natty to create a wish list of features and design specifics. From this list, I used Balsamiq Mockups 3 and Photoshop to build a prototype design.
+						 Once approved by Natty, I used Bootstrap, Sass, and jQuery to develop the site and bring her wish list to life.
+						 The site is still under contruction, but the current version can be viewed below.
+					</a>
 					</p>
+					<a class="btn btn-dark" role="button" href="https://rileycravens.com/nattystaggs" target="_blank">View the site</a>
 				</div>
 			</div>
 		</div>
@@ -160,11 +190,38 @@
 				</div>
 				<div class="col-sm-6">
 					<h2>Walk Albina's Black History</h2>
+					<div class="row detail-header">
+						<div class="col">
+							<h4>
+								Year:
+							</h4>
+							 <h5>
+								2018
+							</h5>
+						</div>
+						<div class="col">
+							<h4>
+								Role:
+							</h4>
+								<h5>
+									 JavaScript Developer, Editor
+								</h5>
+						</div>
+						<div class="col">
+							<h4>
+								Client:
+							</h4>
+							<h5>
+								Dr. Andrea Lowgren
+							</h5>
+						</div>
+					</div>
 					<p>
-						In the Spring of 2018, I collaborated with a team of fellow Capstone students to build a website for History 251, African American History since 1877, at Portland Community College. The students of this class put on an annual Tour of Historical Locations
+						As my Capstone project, I collaborated with a team of four fellow students to build a website for History 251, African American History since 1877, at Portland Community College. The students of this class put on an annual Tour of Historical Locations
 						related to the Black History of the Albina Neighborhood in Portland, Oregon. The website serves as an informational page about the walk and includes essays from students about each location. The role that I performed in the group was to handle all
-						JavaScript implementation as well as content editor. The website can be viewed <a href="https://rileycravens.com/cas285" target="_blank">here,</a> temporarily until it goes live.
+						JavaScript implementation as well as content editor.
 					</p>
+					<a class="btn btn-dark" role="button" href="https://pcc-webtech.com/albina/" target="_blank">View the Site</a>
 				</div>
 			</div>
 		</div>
@@ -175,11 +232,38 @@
 				</div>
 				<div class="col-sm-6">
 					<h2>Movie Database API</h2>
+					<div class="row detail-header">
+						<div class="col">
+							<h4>
+								Year:
+							</h4>
+							 <h5>
+								2018
+							</h5>
+						</div>
+						<div class="col">
+							<h4>
+								Role:
+							</h4>
+								<h5>
+									 Project Manager
+								</h5>
+						</div>
+						<div class="col">
+							<h4>
+								Client:
+							</h4>
+							<h5>
+								Class Project
+							</h5>
+						</div>
+					</div>
 					<p>
-						In the Spring of 2018, I served as an Agile Group Project Manager for a web API project. The site allows a user to search for a movie title and makes recommendations based on that search. Here a search for Alien returns information about the movie as well as five movies the user might also like.
+						As the final project for CAS265, Emerging Web Tools and Trends, I served as an Agile Group Project Manager for a web API project. The site allows a user to search for a movie title and makes recommendations based on that search. Here a search for Alien returns information about the movie as well as five movies the user might also like.
 						<br>
-						I managed the team tasks via a Jira Kanban board and we used Slack to communicate. Github was used for version control for our codebase. The project is currently ongoing but its current iteration can be viewed <a href="https://rileycravens.com/moviedb" target="_blank">here.</a>
+						I managed the team tasks via a Jira Kanban board and we utilized Slack to communicate. Github was used to manage version control for our codebase. The project is currently ongoing but it's current iteration can be viewed below.
 					</p>
+					<a class="btn btn-dark" role="button" href="https://rileycravens.com/moviedb" target="_blank">View the Site</a>
 				</div>
 			</div>
 		</div>

@@ -71,10 +71,19 @@ main {
     padding: 40px;
     font-size: 25px;
     font-family: "aileronregular", Helvetica, sans-serif;
-    color: #545158; }
+    color: #524E55; }
   main h3 {
     font-family: "aileronregular", Helvetica, sans-serif;
-    color: #5e9390;
+    color: #3A5A58;
+    text-align: center; }
+  main h4 {
+    font-family: "aileronregular", Helvetica, sans-serif;
+    color: #3A5A58; }
+  main h5 {
+    font-family: "aileronlight", Helvetica, sans-serif;
+    font-size: 18px;
+    color: #524E55; }
+  main .detail-header {
     text-align: center; }
   main ul {
     font-family: "aileronlight", Helvetica, sans-serif;

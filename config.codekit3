@@ -714,6 +714,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/images\/RileyCravens.jpg": {
+		"ft": 16384,
+		"iS": 222501,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/RileyCravens.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/includes\/footer.inc.php": {
 		"cB": 0,
 		"ft": 8192,
