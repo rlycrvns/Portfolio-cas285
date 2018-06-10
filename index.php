@@ -219,6 +219,9 @@
 						As my Capstone project, I collaborated with a team of four fellow students to build a website for History 251, African American History since 1877, at Portland Community College. The students of this class put on an annual Tour of Historical Locations
 						related to the Black History of the Albina Neighborhood in Portland, Oregon. The website serves as an informational page about the walk and includes essays from students about each location. The role that I performed in the group was to handle all
 						JavaScript implementation as well as content editor.
+						<br>
+						<br>
+						Three teams were formed out of 15 students to each build the same site. Upon soft launches, each site was evaluated and one was chosen to be deployed by the students of HST 251. My team's site was the one selected and can be viewed below at it's final domain.
 					</p>
 					<a class="btn btn-dark" role="button" href="https://pcc-webtech.com/albina/" target="_blank">View the Site</a>
 				</div>
