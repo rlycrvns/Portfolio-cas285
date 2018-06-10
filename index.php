@@ -221,7 +221,7 @@
 						JavaScript implementation as well as content editor.
 						<br>
 						<br>
-						Three teams were formed out of 15 students to each build the same site. Upon soft launches, each site was evaluated and one was chosen to be deployed by the students of HST 251. My team's site was the one selected and can be viewed below at it's final domain.
+						Three teams were formed out of 15 students to each build the same site. Upon soft launches, each site was evaluated and one was chosen to be deployed by the students of HST 251. My team's site was the one selected and can be viewed below at the live domain.
 					</p>
 					<a class="btn btn-dark" role="button" href="https://pcc-webtech.com/albina/" target="_blank">View the Site</a>
 				</div>
