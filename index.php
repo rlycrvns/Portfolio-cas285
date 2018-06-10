@@ -18,7 +18,7 @@
 					</div>
 					<div class="modal-body">
 						<div class="container-fluid">
-							<img src="images/RileyCravens.jpg">
+							<img src="images/RileyCravens.jpg" alt="Resume of Riley Cravens">
 						</div>
 					</div>
 				</div>
@@ -129,20 +129,20 @@
 		<h2 id="work">My Recent Work</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
-				<img src="images/nattystaggs-thumb.jpg" class="img-fluid">
+				<img src="images/nattystaggs-thumb.jpg" alt="Screenshot of Natty Staggs Webpage" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-2">
-				<img src="images/albina-thumb.jpg" class="img-fluid">
+				<img src="images/albina-thumb.jpg" alt="Screenshot of Walk Albina's Black History Webpage" class="img-fluid">
 			</li>
 			<li class="gridder-list" data-griddercontent="#gridder-content-3">
-				<img src="images/moviedb-thumb.jpg" class="img-fluid">
+				<img src="images/moviedb-thumb.jpg" alt="Screenshot of Movie DB webpage" class="img-fluid">
 			</li>
 		</ul>
 
 		<div id="gridder-content-1" class="gridder-content">
 			<div class="row">
 				<div class="col-md-6">
-					<img src="images/nattystaggs.jpg" class="img-fluid">
+					<img src="images/nattystaggs.jpg" alt="Image of Walk Albina's Black History Webpage viewed on an iPhone" class="img-fluid">
 				</div>
 				<div class="col-sm-6">
 					<h2>Natty Staggs</h2>
@@ -173,7 +173,7 @@
 						</div>
 					</div>
 					<p>
-						I am currently interning for Natty Staggs, a Portland artist, and musician, to furnish a complete overhaul of her portfolio website. I worked with Natty to create a wish list of features and design specifics. From this list, I used Balsamiq Mockups 3 and Photoshop to build a prototype design.
+						I am currently interning as a Designer and Developer for Natty Staggs, a Portland artist, and musician, to furnish a complete overhaul of her portfolio website. I worked with Natty to create a wish list of features and design specifics. From this list, I used Balsamiq Mockups 3 and Photoshop to build a prototype design.
 						 Once approved by Natty, I used Bootstrap, Sass, and jQuery to develop the site and bring her wish list to life.
 						 The site is still under contruction, but the current version can be viewed below.
 					</a>
@@ -185,7 +185,7 @@
 		<div id="gridder-content-2" class="gridder-content">
 			<div class="row">
 				<div class="col-sm-6">
-					<img src="images/albina.jpg" class="img-fluid">
+					<img src="images/albina.jpg" alt="Image of Walk Albina's Black History Webpage viewed on an iPhone" class="img-fluid">
 				</div>
 				<div class="col-sm-6">
 					<h2>Walk Albina's Black History</h2>
@@ -230,7 +230,7 @@
 		<div id="gridder-content-3" class="gridder-content">
 			<div class="row">
 				<div class="col-sm-6">
-					<img src="images/moviedb.jpg" class="img-fluid">
+					<img src="images/moviedb.jpg" alt="Screenshot of Movie DB webpage" class="img-fluid">
 				</div>
 				<div class="col-sm-6">
 					<h2>Movie Database API</h2>
