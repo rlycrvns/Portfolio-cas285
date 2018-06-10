@@ -20,7 +20,5 @@
   <br>
 </form>
 <script>
-  $(document).ready(function() {
-    $("#inquiryForm").validate();
-  });
+  $("#inquiryForm").validate();
 </script>

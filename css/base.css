@@ -11,7 +11,8 @@ nav {
   padding: 10px;
   background-color: #f1f7f6; }
   nav a {
-    color: #545158 !important; }
+    color: #524E55 !important;
+    border-radius: 10px; }
 
 .navbar li {
   text-align: center;
@@ -19,16 +20,6 @@ nav {
 
 .hamburger-inner {
   color: rgba(0, 0, 0, 0.5); }
-
-.sociallinks {
-  color: rgba(0, 0, 0, 0.5); }
-
-.sociallinks:hover {
-  color: #222222; }
-
-/* mouse over link */
-#navbar a:hover {
-  color: #222222; }
 
 /*=== HEADER ===*/
 header {
@@ -178,7 +169,12 @@ footer {
     color: #fff;
     font-size: 16px; }
   footer i {
-    color: #fff; }
+    color: #fff;
+    padding: 8px;
+    border-radius: 10px; }
+  footer i:hover {
+    background-color: #f1f7f6;
+    color: #222222; }
 
 #topBtn {
   display: none;
@@ -203,6 +199,9 @@ footer {
 @media (min-width: 600px) {
   .navbar li {
     font-size: 20px; }
+  .navbar a:hover {
+    background-color: #222222;
+    color: #f1f7f6 !important; }
   header h1 {
     font-size: 80px; }
   header h2 {
@@ -232,6 +231,9 @@ footer {
 @media (min-width: 1200px) {
   .navbar li {
     font-size: 22px; }
+  .navbar a:hover {
+    background-color: #222222;
+    color: #f1f7f6 !important; }
   header h1 {
     font-size: 80px; }
   header h2 {

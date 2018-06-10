@@ -1,3 +1,18 @@
+<script>
+$( function() {
+  $( "#form-message" ).dialog({
+    autoOpen: true,
+    show: {
+      effect: "blind",
+      duration: 1000
+    },
+    hide: {
+      effect: "explode",
+      duration: 1000
+    }
+  });
+} );
+</script>
 <div id="form-message" class="container-fluid">
   <h1>Message Sent!</h1>
   <p>I received the following:<br> Name:

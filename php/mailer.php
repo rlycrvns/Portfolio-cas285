@@ -81,7 +81,6 @@ if ((isset($_POST['name'])))
       $sql = 'INSERT INTO contactform SET
           email = :email,
           name = :name,
-          subject = :subject,
           message = :message';
       $s = $pdo->prepare($sql);
         $s->bindValue(':email', $_POST['email']);
@@ -97,7 +96,9 @@ if ((isset($_POST['name'])))
     }
 }
 
-    include 'success.php';
+    $data = 'Data received\\nName: ' . htmlspecialchars($name, ENT_QUOTES, 'UTF-8') . '\\nEmail: ' .htmlspecialchars($email, ENT_QUOTES, 'UTF-8') . '\\nMessage: ' . htmlspecialchars($message, ENT_QUOTES, 'UTF-8');
+    echo "<script type='text/javascript'>alert('$data');</script>";
+    include 'form.php';
 }
 
 } else {
