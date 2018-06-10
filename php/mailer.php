@@ -5,9 +5,6 @@ if (isset($_POST["email"])) {
 if (isset($_POST["name"])) {
     $name = $_POST["name"];
 }
-if (isset($_POST["subject"])) {
-    $subject = $_POST["subject"];
-}
 if (isset($_POST["message"])) {
     $message = $_POST["message"];
 }
@@ -47,14 +44,13 @@ $mail->addReplyTo($email, $name);
 //Set who the message is to be sent to
 $mail->addAddress('info@rileycravens.com', 'Riley Cravens');
 //Set the subject line
-$mail->Subject = 'RileyCravens: ' . $subject;
+$mail->Subject = 'Contact Form Inquiry';
 //Read an HTML message body from an external file, convert referenced images to embedded,
 //convert HTML into a basic plain-text alternative body
 // $mail->msgHTML(file_get_contents('../PHPMailer/examples/contents.html'), dirname(__FILE__));
 $mail->isHTML(true);
 $mail->Body = 'Email:' . $email . '<br>';
 $mail->Body .= 'Name:' . $name . '<br>';
-$mail->Body .= 'Subject:' . $subject . '<br>';
 $mail->Body .= 'Message:' . $message . '<br>';
 //Replace the plain text body with one created manually
 // $mail->AltBody = 'This is a plain-text message body';
@@ -90,7 +86,6 @@ if ((isset($_POST['name'])))
       $s = $pdo->prepare($sql);
         $s->bindValue(':email', $_POST['email']);
         $s->bindValue(':name', $_POST['name']);
-        $s->bindValue(':subject', $_POST['subject']);
         $s->bindValue(':message', $_POST['message']);
       $s->execute();
     }
