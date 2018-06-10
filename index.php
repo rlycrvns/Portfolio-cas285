@@ -34,8 +34,8 @@
 				</div>
 				<div class="col-md-6">
 					<p>
-						I'm interested in translating beautiful designs into elegantly functional code and working on both sides of the stack to get the job done. I love to collaborate and have participated in and managed Agile workgroups using Jira and Github. When not working
-						with Front-End Frameworks such as Bootstrap and Bulma, I like to use PHP to integrate databases via MySql into my projects.
+						I am passionate about translating beautiful designs into elegantly functional code and working on both ends of the stack to get the job done. I love to collaborate and have participated in and managed Agile workgroups using Jira and Github. When not working
+						with Front-End Frameworks such as Bootstrap and Bulma, I like to use PHP to integrate databases via MySql into my projects. Lately, I have been dipping my toes into the world of JavaScript Frameworks.
 					</p>
 				</div>
 			</div>
@@ -69,7 +69,7 @@
 				</ul>
 			</div>
 			<div id="tools" class="col-md skills">
-				<h3>Tools I Like</h3>
+				<h3>Tools I Use</h3>
 				<hr class="intro-divider">
 				<ul>
 					<li>
@@ -90,10 +90,13 @@
 					<li>
 						WordPress
 					</li>
+					<li>
+						Git
+					</li>
 				</ul>
 			</div>
 			<div id="platforms" class="col-md skills">
-				<h3>Platforms I Use</h3>
+				<h3>Platforms I Run</h3>
 				<hr class="intro-divider">
 				<ul>
 					<li>
@@ -126,7 +129,7 @@
 				</ul>
 			</div>
 		</div>
-		<h2 id="work">My Recent Work</h2>
+		<h2 id="work">Recent Work</h2>
 		<ul class="gridder">
 			<li class="gridder-list" data-griddercontent="#gridder-content-1">
 				<img src="images/nattystaggs-thumb.jpg" alt="Screenshot of Natty Staggs Webpage" class="img-fluid">
@@ -221,7 +224,7 @@
 						JavaScript implementation as well as content editor.
 						<br>
 						<br>
-						Three teams were formed out of 15 students to each build the same site. Upon soft launches, each site was evaluated and one was chosen to be deployed by the students of HST 251. My team's site was the one selected and can be viewed below at the live domain.
+						Three teams were formed out of 15 students to each build the same site. Upon soft launch, each site was evaluated and one was chosen to be deployed by the students of HST 251. My team's site was the one selected and can be viewed below at the live domain.
 					</p>
 					<a class="btn btn-dark" role="button" href="https://pcc-webtech.com/albina/" target="_blank">View the Site</a>
 				</div>
