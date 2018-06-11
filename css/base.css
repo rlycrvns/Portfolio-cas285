@@ -48,6 +48,8 @@ header {
   header img {
     width: 100%;
     height: auto; }
+  header #header-effect1, header #header-effect2 {
+    display: none; }
 
 /*=== MAIN ===*/
 main {

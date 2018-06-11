@@ -5,7 +5,7 @@
 
 	<button onclick="topFunction()" id="topBtn" title="Go to top"<i class="fas fa-angle-up"></i></button>
 	<header class="container-fluid">
-		<h1>Riley Cravens</h1>
+		<h1 id="header-effect1">Riley Cravens</h1>
 		<hr class="intro-divider">
 		<!-- Modal -->
 		<div class="modal fade" id="resumeModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
@@ -25,7 +25,7 @@
 			</div>
 		</div>
 		<!--/Modal -->
-		<div class="container-fluid">
+		<div id="header-effect2" class="container-fluid">
 			<div class="row">
 				<div class="col-md-6">
 					<h2>

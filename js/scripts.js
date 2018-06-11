@@ -1,4 +1,9 @@
 $(document).ready(function() {
+  // fade in header text
+  $('nav, body').fadeIn(2000);
+  $('#header-effect1').fadeIn(4000);
+  $('#header-effect2').fadeIn(7000);
+  //modal code
   $('#resModal').on('shown.bs.modal', function () {
     $('#modalTrig').trigger('focus')
   })
