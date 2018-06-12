@@ -38,7 +38,7 @@
 			</div>
 			<div class="col-md-6">
 				<p>
-					I am passionate about translating sharp designs into elegantly functional code, and problem solving from both ends of the stack to get the job done. I thrive on collaboration and have participated in, and managed, Agile workgroups using Jira and Github. Lately, I have been dipping my toes into the world of JavaScript Frameworks.
+					I am passionate about translating sharp designs into elegantly functional code and problem solving from both ends of the stack to get the job done. I thrive on collaboration and have participated in and managed Agile workgroups using Jira and Github. Lately, I have been dipping my toes into the world of JavaScript Frameworks.
 				</p>
 			</div>
 		</div>
@@ -179,7 +179,7 @@
 					</div>
 				</div>
 				<p>
-					I am currently interning as a Designer and Developer for Natty Staggs, a Portland artist, and musician, to furnish a complete overhaul of her portfolio website. I worked with Natty to create a wish list of features and design specifics. From this list,
+					I am currently interning as a Designer and Developer for Natty Staggs, a Portland artist, and musician, to furnish a complete overhaul of her portfolio website. I worked with Natty to create a wish list of features and design specifics. From this list
 					I used Balsamiq Mockups 3 and Photoshop to build a prototype design. Once approved by Natty, I used Bootstrap, Sass, and jQuery to develop the site and bring her wish list to life. The site is still under contruction, but the current version can
 					be viewed below.
 					</a>
@@ -222,7 +222,7 @@
 					</div>
 				</div>
 				<p>
-					As my Capstone project, I collaborated with a team of four fellow students to build a website for History 251, African American History since 1877, at Portland Community College. The students of this class put on an annual Tour of Historical Locations
+					For my Capstone project, I collaborated with a team of four fellow students to build a website for the PCC class History 251: African American History since 1877. The students of this class put on an annual Tour of Historical Locations
 					related to the Black History of the Albina Neighborhood in Portland, Oregon. The website serves as an informational page about the walk and includes essays from students about each location. The role that I performed in the group was to handle all
 					JavaScript implementation as well as content editor.
 					<br>
@@ -267,7 +267,7 @@
 					</div>
 				</div>
 				<p>
-					As the final project for CAS265, Emerging Web Tools and Trends, I served as an Agile Group Project Manager for a web API project. The site allows a user to search for a movie title and makes recommendations based on that search. Here a search for Alien
+					For the final project in CAS265: Emerging Web Tools and Trends I served as an Agile Group Project Manager for a web API project. The site allows a user to search for a movie title and makes recommendations based on that search. Here a search for Alien
 					returns information about the movie as well as five movies the user might also like.
 					<br> I managed the team tasks via a Jira Kanban board and we utilized Slack to communicate. Github was used to manage version control for our codebase. The project is currently ongoing but it's current iteration can be viewed below.
 				</p>
