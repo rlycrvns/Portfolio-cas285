@@ -38,7 +38,7 @@
 			</div>
 			<div class="col-md-6">
 				<p>
-					I am passionate about translating sharp designs into elegantly functional code and problem solving on both ends of the stack to get the job done. I thrive on collaboration and have participated in, and managed, Agile workgroups using Jira and Github. Lately, I have been dipping my toes into the world of JavaScript Frameworks.
+					I am passionate about translating sharp designs into elegantly functional code, and problem solving from both ends of the stack to get the job done. I thrive on collaboration and have participated in, and managed, Agile workgroups using Jira and Github. Lately, I have been dipping my toes into the world of JavaScript Frameworks.
 				</p>
 			</div>
 		</div>
