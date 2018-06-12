@@ -95,3 +95,8 @@ function topFunction() {
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
 }
+
+// form validation
+$( "#target" ).click(function() {
+  $("#inquiryForm").validate();
+});
