@@ -36,15 +36,12 @@
 	<meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-<<<<<<< HEAD
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/webfonts/aileron.css">
 	<link href="css/hamburgers.min.css" rel="stylesheet">
-=======
 	<link href="css/bootstrap.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/webfonts/aileron.css" type="text/css" charset="utf-8">
 	<link href="css/hamburgers.css" rel="stylesheet">
->>>>>>> parent of 8c72652... corrected typos highlighted by seoptimer, compressed base.css
 	<link href="css/jquery.gridder.min.css" rel="stylesheet">
 	<link href="css/base.css" rel="stylesheet">
 	<script src="js/prefixfree.min.js"></script>
