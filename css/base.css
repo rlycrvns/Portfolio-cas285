@@ -169,7 +169,7 @@ nav {
 
 /*=== HEADER ===*/
 header {
-  padding: 200px 50px 1000px 50px;
+  padding: 100px 50px 1000px 50px;
   background-image: url("../images/hero.png");
   height: auto;
   background-position: center;
@@ -405,7 +405,7 @@ footer {
   main h2 {
     font-size: 35px; }
   main #skillbox {
-    margin: -300px 20px 20px 20px; }
+    margin: -200px 20px 20px 20px; }
   article {
     max-width: 60%; }
     article h2 {
