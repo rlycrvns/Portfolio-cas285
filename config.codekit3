@@ -63,7 +63,7 @@
 		"oA": 0,
 		"oAP": "\/css\/base.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/css\/bootstrap.css": {
@@ -634,9 +634,9 @@
 		"oA": 0,
 		"oAP": "\/images\/albina-thumb.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"q": 90
+		"q": 100
 		},
 	"\/images\/albina.jpg": {
 		"ft": 16384,
@@ -645,9 +645,9 @@
 		"oA": 0,
 		"oAP": "\/images\/albina.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"q": 90
+		"q": 100
 		},
 	"\/images\/favicon\/android-icon-144x144.png": {
 		"ft": 32768,
@@ -963,9 +963,9 @@
 		"oA": 0,
 		"oAP": "\/images\/moviedb-thumb.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"q": 90
+		"q": 100
 		},
 	"\/images\/moviedb.jpg": {
 		"ft": 16384,
@@ -974,9 +974,9 @@
 		"oA": 0,
 		"oAP": "\/images\/moviedb.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"q": 90
+		"q": 100
 		},
 	"\/images\/nattystaggs-thumb.jpg": {
 		"ft": 16384,
@@ -985,9 +985,9 @@
 		"oA": 0,
 		"oAP": "\/images\/nattystaggs-thumb.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"q": 90
+		"q": 100
 		},
 	"\/images\/nattystaggs.jpg": {
 		"ft": 16384,
@@ -996,9 +996,9 @@
 		"oA": 0,
 		"oAP": "\/images\/nattystaggs.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"q": 90
+		"q": 100
 		},
 	"\/images\/RileyCravens.jpg": {
 		"ft": 16384,

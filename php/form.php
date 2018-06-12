@@ -1,8 +1,8 @@
-<form method="post" action="" id="inquiryForm">
+<form method="post" action="  " id="inquiryForm">
   <div class="row">
     <div class="form-group col-md">
       <label for="name">Name:</label>
-      <input class="form-control" type="text" name="name" id="name" required>
+      <input class="form-control" type="text" name="name" id="name" type="text" required>
     </div>
 
     <div class="form-group col-md">
