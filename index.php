@@ -182,7 +182,6 @@
 					I am currently interning as a Designer and Developer for Natty Staggs, a Portland artist, and musician, to furnish a complete overhaul of her portfolio website. I worked with Natty to create a wish list of features and design specifics. From this list
 					I used Balsamiq Mockups 3 and Photoshop to build a prototype design. Once approved by Natty, I used Bootstrap, Sass, and jQuery to develop the site and bring her wish list to life. The site is still under contruction, but the current version can
 					be viewed below.
-					</a>
 				</p>
 				<a class="btn btn-dark" role="button" href="https://rileycravens.com/nattystaggs" target="_blank">View the site</a>
 			</div>

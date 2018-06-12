@@ -1,7 +1,6 @@
 <body>
 <nav id="top" class="navbar navbar-expand-sm navbar-light">
   <div>
-    <a class="btn sociallinks" href="mailto:riley@rileycravens.com" target="_blank"><i class="icons far fa-envelope fa-3x"></i></a>
     <a class="btn sociallinks" href="https://www.linkedin.com/in/riley-cravens/" target="_blank"><i class="icons fab fa-linkedin fa-3x"></i></a>
     <a class="btn sociallinks" href="https://github.com/rlycrvns" target="_blank"><i class="icons fab fa-github fa-3x"></i></a>
   </div>

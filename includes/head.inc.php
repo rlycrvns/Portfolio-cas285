@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Riley Cravens is a web developer based in Portland, Oregon." />
+	<meta name="description" content="Riley Cravens is a web developer based in Portland, Oregon. He is currently seeking full-time work." />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117835817-1"></script>
 	<script>
@@ -39,10 +39,10 @@
 	<link href="css/bootstrap-min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/webfonts/aileron.css">
 	<link href="css/hamburgers-min.css" rel="stylesheet">
-	<link rel="stylesheet" href="css/webfonts/aileron.css" type="text/css" charset="utf-8">
+	<link rel="stylesheet" href="css/webfonts/aileron.css">
 	<link href="css/hamburgers-min.css" rel="stylesheet">
 	<link href="css/jquery.gridder.min.css" rel="stylesheet">
-	<link href="css/base.css" rel="stylesheet">
+	<link href="css/base-min.css" rel="stylesheet">
 	<script src="js/prefixfree.min.js"></script>
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
