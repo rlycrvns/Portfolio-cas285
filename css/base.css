@@ -17,7 +17,7 @@
     z-index: 1001;
     border-radius: 50%;
     border: 5px solid transparent;
-    border-top-color: #fff;
+    border-top-color: #74ada6;
     -webkit-animation: clockWiseSpin 1s linear infinite;
     /* Chrome, Opera 15+, Safari 5+ */
     animation: clockWiseSpin 1s linear infinite;
@@ -31,7 +31,7 @@
     bottom: 5px;
     border-radius: 50%;
     border: 5px solid transparent;
-    border-top-color: #646464;
+    border-top-color: #3e4c55;
     -webkit-animation: clockWiseSpin 1.5s linear infinite;
     /* Chrome, Opera 15+, Safari 5+ */
     animation: clockWiseSpin 1.5s linear infinite;
@@ -45,7 +45,7 @@
     bottom: 15px;
     border-radius: 50%;
     border: 5px solid transparent;
-    border-top-color: #eeeeee;
+    border-top-color: #d7f3e7;
     -webkit-animation: clockWiseSpin 3s linear infinite;
     /* Chrome, Opera 15+, Safari 5+ */
     animation: clockWiseSpin 3s linear infinite;

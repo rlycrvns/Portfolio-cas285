@@ -4,7 +4,7 @@ $(document).ready(function() {
 		$('body').addClass('loaded');
 	}, 800);
   // fade in header text
-  $('nav, body').fadeIn(4000);
+  $('nav, body').fadeIn(3000);
   $('#header-effect1').fadeIn(6000);
   $('#header-effect2').fadeIn(10000);
   //modal code
