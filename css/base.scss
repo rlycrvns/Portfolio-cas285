@@ -239,8 +239,9 @@ main {
     font-size: 18px;
     padding-left: 0px;
   }
+  //move skills boxes over color transistion
   #skillbox {
-    margin: -300px 20px 20px 20px;
+    margin: -200px 20px 20px 20px;
   }
   .skills {
     padding: 10px;
@@ -459,6 +460,9 @@ footer {
     }
     h2 {
       font-size: 35px;
+    }
+    #skillbox {
+      margin: -300px 20px 20px 20px;
     }
   }
   article {
