@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="This is the template for the CAS 285 Capstone Portfolio of Riley Cravens. Spring 2018." />
+	<meta name="description" content="Riley Cravens is a web developer based in Portland, Oregon." />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117835817-1"></script>
 	<script>
@@ -48,5 +48,5 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-	<title> Riley Cravens - CAS 285 Portfolio</title>
+	<title> Riley Cravens - Web Developer</title>
 </head>
