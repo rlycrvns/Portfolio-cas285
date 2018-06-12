@@ -1,3 +1,4 @@
+<body>
 <nav id="top" class="navbar navbar-expand-sm navbar-light">
   <div>
     <a class="btn sociallinks" href="mailto:riley@rileycravens.com" target="_blank"><i class="icons far fa-envelope fa-3x"></i></a>
