@@ -1,8 +1,8 @@
 <footer class="container-fluid">
   <br>
   <br>
-  <p>&copy;
-    Copyright <?php echo date("Y"); ?> Riley Cravens. All Rights Reserved.
+  <p>
+    Copyright &copy; <?php echo date("Y"); ?> Riley Cravens. All Rights Reserved.
   </p>
   <br>
     <a class="btn sociallinks" href="mailto:info@rileycravens.com" target="_blank"><i class="icons far fa-envelope fa-3x"></i></a>
