@@ -363,6 +363,17 @@ footer {
     background-color: #f1f7f6;
     color: #222222;
   }
+  #bio {
+    p {
+      color: #fff;
+    }
+    a {
+      color: #83c0b1;
+    }
+  }
+  #footer-profile {
+    border-radius: 50%;
+  }
 }
 #topBtn {
   display: none;
@@ -469,6 +480,11 @@ footer {
   max-width: 60%;
   h2 {
     font-size: 35px;
+    }
+  }
+  footer {
+    #bio {
+      margin-right: 100px;
     }
   }
 }
