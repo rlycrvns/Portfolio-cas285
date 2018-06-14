@@ -370,6 +370,10 @@ footer {
     a {
       color: #83c0b1;
     }
+    a:hover {
+      color: #646464;
+      text-decoration: none;
+    }
   }
   #footer-profile {
     border-radius: 50%;
