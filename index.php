@@ -33,7 +33,7 @@
 		<div class="row">
 			<div class="col-md-6">
 				<h2>
-					Hi! I am Frontend Web Developer based in Portland, Oregon. I just graduated and am on the hunt for full-time work.
+					Hi! I am Front End Web Developer based in Portland, Oregon. I just graduated and am on the hunt for full-time work.
 					</h2>
 			</div>
 			<div class="col-md-6">
