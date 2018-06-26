@@ -183,7 +183,7 @@
 					I used Balsamiq Mockups 3 and Photoshop to build a prototype design. Once approved by Natty, I used Bootstrap, Sass, and jQuery to develop the site and bring her wish list to life. The site is still under contruction, but the current version can
 					be viewed below.
 				</p>
-				<a class="btn btn-dark" role="button" href="https://rileycravens.com/nattystaggs" target="_blank">View the site</a>
+				<a class="btn btn-dark" role="button" href="https://rileycravens.com/ns" target="_blank">View the site</a>
 			</div>
 		</div>
 	</div>
