@@ -1030,15 +1030,15 @@
 		"opt": 1,
 		"q": 90
 		},
-	"\/images\/RileyCravens.jpg": {
+	"\/images\/profile_very_small.jpg": {
 		"ft": 16384,
-		"iS": 222501,
+		"iS": 77784,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/RileyCravens.jpg",
+		"oAP": "\/images\/profile_very_small.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/includes\/footer.inc.php": {
