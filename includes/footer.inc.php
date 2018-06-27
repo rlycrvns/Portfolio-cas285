@@ -12,7 +12,7 @@
     <br>
     <div class="row">
       <div class="col-md-7">
-        <img src="images/profile_very_small.jpg" id="footer-profile" class="img-fluid" />
+        <img src="images/profile_very_small.jpg" id="footer-profile" class="img-fluid" alt="Portrait of Riley Cravens">
       </div>
       <div id="bio" class="col-md-4">
         <br>
