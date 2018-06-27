@@ -9,8 +9,11 @@
 </div>
 <button onclick="topFunction()" id="topBtn" title="Go to top" <i class="fas fa-angle-up"></i></button>
 <header class="container-fluid">
-	<h1 id="header-effect1">Riley Cravens</h1>
-	<hr class="intro-divider">
+	<div id="header-effect1">
+		<h1>Riley Cravens</h1>
+		<hr class="intro-divider">
+		<h3>he/him/his/himself</h3>
+	</div>
 	<!-- Modal -->
 	<div class="modal fade" id="resumeModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
 		<div class="modal-dialog modal-lg" role="document">
@@ -22,7 +25,7 @@
 				</div>
 				<div class="modal-body">
 					<div class="container-fluid">
-						<img src="images/resume_cravens_riley.jpg" alt="Resume of Riley Cravens">
+						<img src="images/alt_resume_cravens_riley.jpg" alt="Resume of Riley Cravens">
 					</div>
 				</div>
 			</div>
@@ -132,6 +135,7 @@
 			</ul>
 		</div>
 	</div>
+	<div id="gridder-work">
 	<h2 id="work">Recent Work</h2>
 	<ul class="gridder">
 		<li class="gridder-list" data-griddercontent="#gridder-content-1">
@@ -274,6 +278,7 @@
 			</div>
 		</div>
 	</div>
+</div>
 </main>
 
 <article id="contact" class="container-fluid">

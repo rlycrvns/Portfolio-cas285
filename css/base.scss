@@ -167,7 +167,7 @@ nav {
 /*=== HEADER ===*/
 
 header {
-  padding: 100px 50px 1000px 50px;
+  padding: 40px 50px 700px 50px;
   background-image: url("../images/hero.png");
   height: auto;
   background-position: center;
@@ -181,11 +181,20 @@ header {
     text-shadow: 2px 2px #222222;
   }
   h2 {
+    text-align: left;
     padding: 10px;
     font-size: 32px;
     color: #222222;
   }
+  h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: $font-title;
+    color: #fff;
+    text-shadow: 2px 2px #222222;
+  }
   p {
+    text-align: justify;
     padding: 10px;
     font-size: 20px;
     color: #222222;
@@ -206,8 +215,6 @@ main {
   padding: 20px;
   text-align: center;
   background-color: #f1f7f6;
-  border-bottom-left-radius: 25px;
-  border-bottom-right-radius: 25px;
   h2 {
     padding: 40px;
     font-size: 25px;
@@ -236,7 +243,7 @@ main {
   }
   //move skills boxes over color transistion
   #skillbox {
-    margin: -200px 20px 20px 20px;
+    margin: -225px 20px 20px 20px;
   }
   .skills {
     padding: 10px;
@@ -249,6 +256,9 @@ main {
     box-shadow: 1px 3px 2px #888888;
     border-radius: 25px;
   } // GRIDDER CSS
+  #gridder-work {
+    margin-bottom: -100px;
+  }
   .gridder {
     margin: 0px;
     padding: 0px;
@@ -315,8 +325,8 @@ main {
 /*=== ARTICLE ===*/
 
 article {
+  padding-top: 100px;
   text-align: center;
-
   h2 {
     padding: 40px;
     font-size: 25px;
@@ -360,6 +370,7 @@ footer {
   }
   #bio {
     p {
+      text-align: justify;
       color: #fff;
     }
     a {
@@ -411,12 +422,10 @@ footer {
     }
     h2 {
       padding: 60px;
-      text-align: justify;
       font-size: 40px;
     }
     p {
       padding: 60px;
-      text-align: justify;
       font-size: 20px;
     }
   }
@@ -426,6 +435,9 @@ footer {
     }
     h2 {
       font-size: 30px;
+    }
+    #skillbox {
+      margin: -300px 20px 20px 20px;
     }
   }
   article {
@@ -447,17 +459,16 @@ footer {
     color: #f1f7f6 !important;
   }
   header {
+    padding: 50px 50px 800px 50px;
     h1 {
       font-size: 80px;
     }
     h2 {
       padding: 60px;
-      text-align: justify;
       font-size: 40px;
     }
     p {
       padding: 60px;
-      text-align: justify;
       font-size: 20px;
     }
   }
@@ -472,7 +483,7 @@ footer {
       font-size: 35px;
     }
     #skillbox {
-      margin: -200px 20px 20px 20px;
+      margin: -300px 20px 20px 20px;
     }
   }
   article {

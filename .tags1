@@ -4,4 +4,107 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-History	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/index.php	/^					For my Capstone project, I collaborated with a team of four fellow students to build a website for the PCC class History 251: African American History since 1877. The students of this class put on an annual Tour of Historical Locations$/;"	class	line:224
+#loader-wrapper	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^#loader-wrapper {$/;"	function	line:5
+#loader	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #loader {$/;"	function	line:12
+#loader::before	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #loader::before {$/;"	function	line:27
+#loader::after	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #loader::after {$/;"	function	line:40
+@-webkit-keyframes clockWiseSpin	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^@-webkit-keyframes clockWiseSpin {$/;"	function	line:54
+0%	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  0%   {$/;"	function	line:55
+100%	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  100% {$/;"	function	line:60
+@keyframes clockWiseSpin	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^@keyframes clockWiseSpin {$/;"	function	line:66
+0%	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  0%   {$/;"	function	line:67
+100%	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  100% {$/;"	function	line:72
+#loader-wrapper .loader-section	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^#loader-wrapper .loader-section {$/;"	function	line:79
+#loader-wrapper .loader-section.section-left	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^#loader-wrapper .loader-section.section-left {$/;"	function	line:91
+#loader-wrapper .loader-section.section-right	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^#loader-wrapper .loader-section.section-right {$/;"	function	line:95
+.loaded #loader-wrapper .loader-section.section-left	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^.loaded #loader-wrapper .loader-section.section-left {$/;"	function	line:100
+.loaded #loader-wrapper .loader-section.section-right	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^.loaded #loader-wrapper .loader-section.section-right {$/;"	function	line:109
+.loaded #loader	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^.loaded #loader {$/;"	function	line:118
+.loaded #loader-wrapper	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^.loaded #loader-wrapper {$/;"	function	line:123
+.no-js #loader-wrapper	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^.no-js #loader-wrapper {$/;"	function	line:135
+body	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^body {$/;"	function	line:140
+nav	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^nav {$/;"	function	line:150
+a	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  a {$/;"	function	line:153
+.navbar li	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^.navbar li {$/;"	function	line:158
+.hamburger-inner	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^.hamburger-inner {$/;"	function	line:163
+header	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^header {$/;"	function	line:169
+h1	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h1 {$/;"	function	line:176
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h2 {$/;"	function	line:183
+h3	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h3 {$/;"	function	line:189
+p	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  p {$/;"	function	line:196
+img	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  img {$/;"	function	line:202
+#header-effect1, #header-effect2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #header-effect1, #header-effect2 {$/;"	function	line:206
+main	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^main {$/;"	function	line:213
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h2 {$/;"	function	line:218
+h3	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h3 {$/;"	function	line:224
+h4	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h4 {$/;"	function	line:229
+h5	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h5 {$/;"	function	line:232
+.detail-header	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .detail-header {$/;"	function	line:236
+ul	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  ul {$/;"	function	line:239
+#skillbox	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #skillbox {$/;"	function	line:245
+.skills	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .skills {$/;"	function	line:248
+.img-fluid	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .img-fluid {$/;"	function	line:255
+#gridder-work	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #gridder-work {$/;"	function	line:259
+.gridder	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder {$/;"	function	line:262
+p	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    p {$/;"	function	line:266
+.gridder-list	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder-list {$/;"	function	line:270
+.gridder-show	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder-show {$/;"	function	line:275
+&.loading	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    &.loading {$/;"	function	line:281
+.gridder-content	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder-content {$/;"	function	line:285
+.gridder-list	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder-list {$/;"	function	line:288
+.gridder-show	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder-show {$/;"	function	line:292
+.gridder-navigation	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder-navigation {$/;"	function	line:297
+.gridder-nav	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    .gridder-nav {$/;"	function	line:299
+&.disabled	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^      &.disabled {$/;"	function	line:300
+.gridder-close	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder-close {$/;"	function	line:305
+.gridder-list	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .gridder-list {$/;"	function	line:309
+&:hover	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    &:hover {$/;"	function	line:311
+.hasSelectedItem	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .hasSelectedItem {$/;"	function	line:315
+.gridder-list	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    .gridder-list {$/;"	function	line:316
+&.selectedItem	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^      &.selectedItem {$/;"	function	line:318
+article	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^article {$/;"	function	line:327
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h2 {$/;"	function	line:330
+h3	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h3 {$/;"	function	line:336
+form p	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  form p {$/;"	function	line:340
+form #submit-button	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  form #submit-button {$/;"	function	line:343
+form #submit-button:hover	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  form #submit-button:hover {$/;"	function	line:347
+footer	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^footer {$/;"	function	line:355
+p	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  p {$/;"	function	line:358
+i	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  i {$/;"	function	line:362
+i:hover	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  i:hover {$/;"	function	line:367
+#bio	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #bio {$/;"	function	line:371
+p	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    p {$/;"	function	line:372
+a	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    a {$/;"	function	line:376
+a:hover	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    a:hover {$/;"	function	line:379
+#footer-profile	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #footer-profile {$/;"	function	line:384
+#topBtn	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^#topBtn {$/;"	function	line:388
+#topBtn:hover	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #topBtn:hover {$/;"	function	line:403
+@media (min-width: 600px)	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^@media (min-width: 600px) {$/;"	function	line:411
+.navbar li	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .navbar li {$/;"	function	line:412
+.navbar a:hover	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .navbar a:hover {$/;"	function	line:415
+header	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  header {$/;"	function	line:419
+h1	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    h1 {$/;"	function	line:420
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    h2 {$/;"	function	line:423
+p	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    p {$/;"	function	line:427
+main	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  main {$/;"	function	line:432
+.gridder-list	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    .gridder-list {$/;"	function	line:433
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    h2 {$/;"	function	line:436
+#skillbox	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    #skillbox {$/;"	function	line:439
+article	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  article {$/;"	function	line:443
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h2 {$/;"	function	line:446
+@media (min-width: 1200px)	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^@media (min-width: 1200px) {$/;"	function	line:453
+.navbar li	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .navbar li {$/;"	function	line:454
+.navbar a:hover	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  .navbar a:hover {$/;"	function	line:457
+header	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  header {$/;"	function	line:461
+h1	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    h1 {$/;"	function	line:463
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    h2 {$/;"	function	line:466
+p	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    p {$/;"	function	line:470
+main	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  main {$/;"	function	line:475
+.gridder-list	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    .gridder-list {$/;"	function	line:476
+ul	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^      ul {$/;"	function	line:478
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    h2 {$/;"	function	line:482
+#skillbox	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    #skillbox {$/;"	function	line:485
+article	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  article {$/;"	function	line:489
+h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h2 {$/;"	function	line:491
+footer	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  footer {$/;"	function	line:495
+#bio	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    #bio {$/;"	function	line:496
