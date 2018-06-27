@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Riley Cravens is a web developer based in Portland, Oregon. He is currently seeking full-time work." />
+	<meta name="description" content="Riley Cravens is a web developer and PCC graduate based in Portland, Oregon. His pronouns are he, him, his and himself.">
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117835817-1"></script>
 	<script>

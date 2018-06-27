@@ -25,7 +25,7 @@
 				</div>
 				<div class="modal-body">
 					<div class="container-fluid">
-						<img src="images/alt_resume_cravens_riley.jpg" alt="Resume of Riley Cravens">
+						<img src="images/alt-resume-cravens-riley.jpg" alt="Resume of Riley Cravens">
 					</div>
 				</div>
 			</div>

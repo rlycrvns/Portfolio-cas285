@@ -1,6 +1,5 @@
 font-title	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/fonts.scss	/^$font-title: 'Righteous', cursive;$/;"	function	line:3
 font-body	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/fonts.scss	/^$font-body: 'Poppins', sans-serif;$/;"	function	line:4
-History	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/index.php	/^					For my Capstone project, I collaborated with a team of four fellow students to build a website for the PCC class History 251: African American History since 1877. The students of this class put on an annual Tour of Historical Locations$/;"	class	line:228
 #loader-wrapper	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^#loader-wrapper {$/;"	function	line:5
 #loader	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #loader {$/;"	function	line:12
 #loader::before	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  #loader::before {$/;"	function	line:27
@@ -105,3 +104,5 @@ article	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^ 
 h2	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  h2 {$/;"	function	line:491
 footer	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^  footer {$/;"	function	line:495
 #bio	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/css/base.scss	/^    #bio {$/;"	function	line:496
+History	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/index.php	/^					For my Capstone project, I collaborated with a team of four fellow students to build a website for the PCC class History 251: African American History since 1877. The students of this class put on an annual Tour of Historical Locations$/;"	class	line:228
+gtag	/Applications/XAMPP/xamppfiles/htdocs/Portfolio-cas285/includes/head.inc.php	/^		function gtag() {$/;"	function	line:14
