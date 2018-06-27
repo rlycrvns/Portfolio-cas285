@@ -138,6 +138,7 @@
 /*=== GLOBAL STYLE ===*/
 
 body {
+  font-family: $font-body;
   font-weight: normal;
   font-size: 20px;
   overflow-x: hidden;
@@ -147,7 +148,6 @@ body {
 /*=== NAVBAR===*/
 
 nav {
-  font-family: $font-lite;
   padding: 10px;
   background-color: #f1f7f6;
   a {
@@ -176,18 +176,16 @@ header {
   h1 {
     text-align: center;
     font-size: 50px;
-    font-family: $font-lite;
+    font-family: $font-title;
     color: #fff;
     text-shadow: 2px 2px #222222;
   }
   h2 {
-    font-family: $font-lite;
     padding: 10px;
     font-size: 32px;
     color: #222222;
   }
   p {
-    font-family: $font-lite;
     padding: 10px;
     font-size: 20px;
     color: #222222;
@@ -213,20 +211,18 @@ main {
   h2 {
     padding: 40px;
     font-size: 25px;
-    font-family: $font-reg;
+    font-weight: bold;
     color: #524E55;
   }
   h3 {
-    font-family: $font-reg;
+    font-weight: bold;
     color: #3A5A58;
     text-align: center;
   }
   h4 {
-    font-family: $font-reg;
     color: #3A5A58;
   }
   h5 {
-    font-family: $font-lite;
     font-size: 18px;
     color: #524E55;
   }
@@ -234,7 +230,6 @@ main {
     text-align: center;
   }
   ul {
-    font-family: $font-lite;
     list-style-type: none;
     font-size: 18px;
     padding-left: 0px;
@@ -321,11 +316,11 @@ main {
 
 article {
   text-align: center;
-  font-family: $font-lite;
+
   h2 {
     padding: 40px;
     font-size: 25px;
-    font-family: $font-reg;
+
     color: #545158;
   }
   h3 {

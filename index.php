@@ -22,7 +22,7 @@
 				</div>
 				<div class="modal-body">
 					<div class="container-fluid">
-						<img src="images/RileyCravens.jpg" alt="Resume of Riley Cravens">
+						<img src="images/resume_cravens_riley.jpg" alt="Resume of Riley Cravens">
 					</div>
 				</div>
 			</div>
@@ -67,7 +67,7 @@
 					SQL
 				</li>
 				<li>
-					C++ Literate
+					C/C++, Python Literate
 				</li>
 			</ul>
 		</div>
@@ -75,6 +75,9 @@
 			<h3>Tools I Use</h3>
 			<hr class="intro-divider">
 			<ul>
+				<li>
+					Git
+				</li>
 				<li>
 					Bootstrap
 				</li>
@@ -92,9 +95,6 @@
 				</li>
 				<li>
 					WordPress
-				</li>
-				<li>
-					Git
 				</li>
 			</ul>
 		</div>
@@ -127,7 +127,7 @@
 					PHPStorm
 				</li>
 				<li>
-					Photoshop
+					Adobe Creative Suite
 				</li>
 			</ul>
 		</div>
