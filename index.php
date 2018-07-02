@@ -130,7 +130,7 @@
 					PHPStorm
 				</li>
 				<li>
-					Adobe Creative Suite
+					Adobe Creative Cloud
 				</li>
 			</ul>
 		</div>
