@@ -55,7 +55,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/base-min-min.css",
 		"oF": 0,
 		"oS": 3
@@ -95,7 +95,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/bootstrap-min-min.css",
 		"oF": 0,
 		"oS": 3
@@ -113,7 +113,7 @@
 	"\/css\/fonts.css.map": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/fonts.css.map",
 		"oF": 0
 		},
@@ -135,7 +135,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/hamburgers-min-min.css",
 		"oF": 0,
 		"oS": 3
@@ -601,7 +601,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/hamburger-min-min.js",
 		"oF": 0,
 		"sC": 3,
@@ -621,7 +621,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/jquery.gridder-min-min.js",
 		"oF": 0,
 		"sC": 3,
@@ -651,7 +651,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 3,

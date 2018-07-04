@@ -7,7 +7,7 @@
 
     <div class="form-group col-md">
       <label for="email">Email:</label>
-      <input class="form-control" type="email" name="email" id="email" placeholder="I will never share your email with anyone else." required>
+      <input class="form-control" type="email" name="email" id="email" placeholder="I will never share your email with anyone." required>
     </div>
 </div>
   <div class="form-group">
